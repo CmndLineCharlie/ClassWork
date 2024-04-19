@@ -1,0 +1,1587 @@
+Apr 15 03:40:01 LinuxDaily systemd: Started Session 24 of user root.
+Apr 15 03:50:01 LinuxDaily systemd: Started Session 25 of user root.
+Apr 15 04:00:01 LinuxDaily systemd: Started Session 26 of user root.
+Apr 15 04:01:01 LinuxDaily systemd: Started Session 27 of user root.
+Apr 15 04:10:01 LinuxDaily systemd: Started Session 28 of user root.
+Apr 15 04:20:01 LinuxDaily systemd: Started Session 29 of user root.
+Apr 15 04:25:17 LinuxDaily systemd-logind: Removed session 8.
+Apr 15 04:25:17 LinuxDaily systemd-logind: Removed session 10.
+Apr 15 04:30:01 LinuxDaily systemd: Started Session 30 of user root.
+Apr 15 04:40:01 LinuxDaily systemd: Started Session 31 of user root.
+Apr 15 04:50:01 LinuxDaily systemd: Started Session 32 of user root.
+Apr 15 05:00:01 LinuxDaily systemd: Started Session 33 of user root.
+Apr 15 05:01:01 LinuxDaily systemd: Started Session 34 of user root.
+Apr 15 05:10:01 LinuxDaily systemd: Started Session 35 of user root.
+Apr 15 05:20:01 LinuxDaily systemd: Started Session 36 of user root.
+Apr 15 05:30:01 LinuxDaily systemd: Started Session 37 of user root.
+Apr 15 05:40:01 LinuxDaily systemd: Started Session 38 of user root.
+Apr 15 05:50:01 LinuxDaily systemd: Started Session 39 of user root.
+Apr 15 06:00:01 LinuxDaily systemd: Started Session 40 of user root.
+Apr 15 06:01:01 LinuxDaily systemd: Started Session 41 of user root.
+Apr 15 06:10:01 LinuxDaily systemd: Started Session 42 of user root.
+Apr 15 06:20:01 LinuxDaily systemd: Started Session 43 of user root.
+Apr 15 06:30:01 LinuxDaily systemd: Started Session 44 of user root.
+Apr 15 06:40:01 LinuxDaily systemd: Started Session 45 of user root.
+Apr 15 06:50:01 LinuxDaily systemd: Started Session 46 of user root.
+Apr 15 07:00:01 LinuxDaily systemd: Started Session 47 of user root.
+Apr 15 07:01:01 LinuxDaily systemd: Started Session 48 of user root.
+Apr 15 07:10:01 LinuxDaily systemd: Started Session 49 of user root.
+Apr 15 07:20:01 LinuxDaily systemd: Started Session 50 of user root.
+Apr 15 07:30:01 LinuxDaily systemd: Started Session 51 of user root.
+Apr 15 07:40:01 LinuxDaily systemd: Started Session 52 of user root.
+Apr 15 07:50:01 LinuxDaily systemd: Started Session 53 of user root.
+Apr 15 08:00:01 LinuxDaily systemd: Started Session 54 of user root.
+Apr 15 08:01:01 LinuxDaily systemd: Started Session 55 of user root.
+Apr 15 08:10:01 LinuxDaily systemd: Started Session 56 of user root.
+Apr 15 08:20:01 LinuxDaily systemd: Started Session 57 of user root.
+Apr 15 08:30:02 LinuxDaily systemd: Started Session 58 of user root.
+Apr 15 08:40:01 LinuxDaily systemd: Started Session 59 of user root.
+Apr 15 08:50:01 LinuxDaily systemd: Started Session 60 of user root.
+Apr 15 09:00:01 LinuxDaily systemd: Started Session 61 of user root.
+Apr 15 09:01:01 LinuxDaily systemd: Started Session 62 of user root.
+Apr 15 09:10:01 LinuxDaily systemd: Started Session 63 of user root.
+Apr 15 09:20:01 LinuxDaily systemd: Started Session 64 of user root.
+Apr 15 09:30:01 LinuxDaily systemd: Started Session 65 of user root.
+Apr 15 09:40:01 LinuxDaily systemd: Started Session 66 of user root.
+Apr 15 09:50:01 LinuxDaily systemd: Started Session 67 of user root.
+Apr 15 10:00:01 LinuxDaily systemd: Started Session 68 of user root.
+Apr 15 10:01:01 LinuxDaily systemd: Started Session 69 of user root.
+Apr 15 10:10:01 LinuxDaily systemd: Started Session 70 of user root.
+Apr 15 10:20:01 LinuxDaily systemd: Started Session 71 of user root.
+Apr 15 10:30:01 LinuxDaily systemd: Started Session 72 of user root.
+Apr 15 10:40:01 LinuxDaily systemd: Started Session 73 of user root.
+Apr 15 10:50:01 LinuxDaily systemd: Started Session 74 of user root.
+Apr 15 11:00:01 LinuxDaily systemd: Started Session 75 of user root.
+Apr 15 11:01:01 LinuxDaily systemd: Started Session 76 of user root.
+Apr 15 11:10:02 LinuxDaily systemd: Started Session 77 of user root.
+Apr 15 11:20:01 LinuxDaily systemd: Started Session 78 of user root.
+Apr 15 11:30:01 LinuxDaily systemd: Started Session 79 of user root.
+Apr 15 11:40:01 LinuxDaily systemd: Started Session 80 of user root.
+Apr 15 11:50:01 LinuxDaily systemd: Started Session 81 of user root.
+Apr 15 12:00:01 LinuxDaily systemd: Started Session 82 of user root.
+Apr 15 12:01:01 LinuxDaily systemd: Started Session 83 of user root.
+Apr 15 12:10:01 LinuxDaily systemd: Started Session 84 of user root.
+Apr 15 12:20:01 LinuxDaily systemd: Started Session 85 of user root.
+Apr 15 12:30:01 LinuxDaily systemd: Started Session 86 of user root.
+Apr 15 12:40:01 LinuxDaily systemd: Started Session 87 of user root.
+Apr 15 12:50:01 LinuxDaily systemd: Started Session 88 of user root.
+Apr 15 13:00:01 LinuxDaily systemd: Started Session 89 of user root.
+Apr 15 13:01:01 LinuxDaily systemd: Started Session 90 of user root.
+Apr 15 13:10:01 LinuxDaily systemd: Started Session 91 of user root.
+Apr 15 13:20:01 LinuxDaily systemd: Started Session 92 of user root.
+Apr 15 13:30:01 LinuxDaily systemd: Started Session 93 of user root.
+Apr 15 13:40:01 LinuxDaily systemd: Started Session 94 of user root.
+Apr 15 13:50:01 LinuxDaily systemd: Started Session 95 of user root.
+Apr 15 14:00:01 LinuxDaily systemd: Started Session 96 of user root.
+Apr 15 14:01:01 LinuxDaily systemd: Started Session 97 of user root.
+Apr 15 14:10:01 LinuxDaily systemd: Started Session 98 of user root.
+Apr 15 14:20:01 LinuxDaily systemd: Started Session 99 of user root.
+Apr 15 14:30:01 LinuxDaily systemd: Started Session 100 of user root.
+Apr 15 14:40:01 LinuxDaily systemd: Started Session 101 of user root.
+Apr 15 14:50:02 LinuxDaily systemd: Started Session 102 of user root.
+Apr 15 15:00:01 LinuxDaily systemd: Started Session 103 of user root.
+Apr 15 15:01:01 LinuxDaily systemd: Started Session 104 of user root.
+Apr 15 15:10:01 LinuxDaily systemd: Started Session 105 of user root.
+Apr 15 15:20:01 LinuxDaily systemd: Started Session 106 of user root.
+Apr 15 15:30:01 LinuxDaily systemd: Started Session 107 of user root.
+Apr 15 15:40:01 LinuxDaily systemd: Started Session 108 of user root.
+Apr 15 15:50:01 LinuxDaily systemd: Started Session 109 of user root.
+Apr 15 16:00:01 LinuxDaily systemd: Started Session 110 of user root.
+Apr 15 16:01:01 LinuxDaily systemd: Started Session 111 of user root.
+Apr 15 16:10:02 LinuxDaily systemd: Started Session 112 of user root.
+Apr 15 16:20:01 LinuxDaily systemd: Started Session 113 of user root.
+Apr 15 16:30:01 LinuxDaily systemd: Started Session 114 of user root.
+Apr 15 16:40:01 LinuxDaily systemd: Started Session 115 of user root.
+Apr 15 16:48:25 LinuxDaily systemd-logind: New session 116 of user root.
+Apr 15 16:48:25 LinuxDaily systemd: Started Session 116 of user root.
+Apr 15 16:48:25 LinuxDaily dbus[833]: [system] Activating service name='org.freedesktop.problems' (using servicehelper)
+Apr 15 16:48:25 LinuxDaily dbus[833]: [system] Successfully activated service 'org.freedesktop.problems'
+Apr 15 16:50:01 LinuxDaily systemd: Started Session 117 of user root.
+Apr 15 17:00:01 LinuxDaily systemd: Started Session 118 of user root.
+Apr 15 17:01:01 LinuxDaily systemd: Started Session 119 of user root.
+Apr 15 17:10:01 LinuxDaily systemd: Started Session 120 of user root.
+Apr 15 17:20:02 LinuxDaily systemd: Started Session 121 of user root.
+Apr 15 17:30:01 LinuxDaily systemd: Started Session 122 of user root.
+Apr 15 17:40:01 LinuxDaily systemd: Started Session 123 of user root.
+Apr 15 17:50:01 LinuxDaily systemd: Started Session 124 of user root.
+Apr 15 18:00:01 LinuxDaily systemd: Started Session 125 of user root.
+Apr 15 18:01:01 LinuxDaily systemd: Started Session 126 of user root.
+Apr 15 18:10:01 LinuxDaily systemd: Started Session 127 of user root.
+Apr 15 18:20:01 LinuxDaily systemd: Started Session 128 of user root.
+Apr 15 18:30:02 LinuxDaily systemd: Started Session 129 of user root.
+Apr 15 18:40:01 LinuxDaily systemd: Started Session 130 of user root.
+Apr 15 18:50:01 LinuxDaily systemd: Started Session 131 of user root.
+Apr 15 18:53:47 LinuxDaily systemd-logind: Removed session 4.
+Apr 15 19:00:01 LinuxDaily systemd: Started Session 132 of user root.
+Apr 15 19:01:01 LinuxDaily systemd: Started Session 133 of user root.
+Apr 15 19:10:01 LinuxDaily systemd: Started Session 134 of user root.
+Apr 15 19:20:01 LinuxDaily systemd: Started Session 135 of user root.
+Apr 15 19:30:01 LinuxDaily systemd: Started Session 136 of user root.
+Apr 15 19:40:01 LinuxDaily systemd: Started Session 137 of user root.
+Apr 15 19:50:01 LinuxDaily systemd: Started Session 138 of user root.
+Apr 15 20:00:02 LinuxDaily systemd: Started Session 139 of user root.
+Apr 15 20:01:01 LinuxDaily systemd: Started Session 140 of user root.
+Apr 15 20:10:01 LinuxDaily systemd: Started Session 141 of user root.
+Apr 15 20:20:01 LinuxDaily systemd: Started Session 142 of user root.
+Apr 15 20:30:01 LinuxDaily systemd: Started Session 143 of user root.
+Apr 15 20:40:01 LinuxDaily systemd: Started Session 144 of user root.
+Apr 15 20:50:01 LinuxDaily systemd: Started Session 145 of user root.
+Apr 15 21:00:01 LinuxDaily systemd: Started Session 146 of user root.
+Apr 15 21:01:02 LinuxDaily systemd: Started Session 147 of user root.
+Apr 15 21:10:01 LinuxDaily systemd: Started Session 148 of user root.
+Apr 15 21:20:01 LinuxDaily systemd: Started Session 149 of user root.
+Apr 15 21:30:01 LinuxDaily systemd: Started Session 150 of user root.
+Apr 15 21:40:01 LinuxDaily systemd: Started Session 151 of user root.
+Apr 15 21:50:01 LinuxDaily systemd: Started Session 152 of user root.
+Apr 15 22:00:01 LinuxDaily systemd: Started Session 153 of user root.
+Apr 15 22:01:01 LinuxDaily systemd: Started Session 154 of user root.
+Apr 15 22:10:02 LinuxDaily systemd: Started Session 155 of user root.
+Apr 15 22:20:01 LinuxDaily systemd: Started Session 156 of user root.
+Apr 15 22:30:01 LinuxDaily systemd: Started Session 157 of user root.
+Apr 15 22:40:01 LinuxDaily systemd: Started Session 158 of user root.
+Apr 15 22:50:01 LinuxDaily systemd: Started Session 159 of user root.
+Apr 15 23:00:01 LinuxDaily systemd: Started Session 160 of user root.
+Apr 15 23:01:01 LinuxDaily systemd: Started Session 161 of user root.
+Apr 15 23:10:01 LinuxDaily systemd: Started Session 162 of user root.
+Apr 15 23:20:01 LinuxDaily systemd: Started Session 163 of user root.
+Apr 15 23:30:01 LinuxDaily systemd: Started Session 164 of user root.
+Apr 15 23:40:01 LinuxDaily systemd: Started Session 165 of user root.
+Apr 15 23:50:01 LinuxDaily systemd: Started Session 166 of user root.
+Apr 15 23:53:01 LinuxDaily systemd: Started Session 167 of user root.
+Apr 16 00:00:01 LinuxDaily systemd: Started Session 168 of user root.
+Apr 16 00:00:01 LinuxDaily systemd: Starting update of the root trust anchor for DNSSEC validation in unbound...
+Apr 16 00:00:01 LinuxDaily systemd: Started update of the root trust anchor for DNSSEC validation in unbound.
+Apr 16 00:01:01 LinuxDaily systemd: Started Session 169 of user root.
+Apr 16 00:10:01 LinuxDaily systemd: Started Session 170 of user root.
+Apr 16 00:20:01 LinuxDaily systemd: Started Session 171 of user root.
+Apr 16 00:30:01 LinuxDaily systemd: Started Session 172 of user root.
+Apr 16 00:40:01 LinuxDaily systemd: Started Session 173 of user root.
+Apr 16 00:50:01 LinuxDaily systemd: Started Session 174 of user root.
+Apr 16 01:00:01 LinuxDaily systemd: Started Session 175 of user root.
+Apr 16 01:01:01 LinuxDaily systemd: Started Session 176 of user root.
+Apr 16 01:10:01 LinuxDaily systemd: Started Session 177 of user root.
+Apr 16 01:15:18 LinuxDaily systemd: Starting Cleanup of Temporary Directories...
+Apr 16 01:15:18 LinuxDaily systemd: Started Cleanup of Temporary Directories.
+Apr 16 01:20:01 LinuxDaily systemd: Started Session 178 of user root.
+Apr 16 01:30:01 LinuxDaily systemd: Started Session 179 of user root.
+Apr 16 01:40:01 LinuxDaily systemd: Started Session 180 of user root.
+Apr 16 01:50:01 LinuxDaily systemd: Started Session 181 of user root.
+Apr 16 02:00:01 LinuxDaily systemd: Started Session 182 of user root.
+Apr 16 02:01:01 LinuxDaily systemd: Started Session 183 of user root.
+Apr 16 02:10:01 LinuxDaily systemd: Started Session 184 of user root.
+Apr 16 02:20:01 LinuxDaily systemd: Started Session 185 of user root.
+Apr 16 02:30:01 LinuxDaily systemd: Started Session 186 of user root.
+Apr 16 02:37:58 LinuxDaily dnsmasq[2146]: no servers found in /etc/resolv.conf, will retry
+Apr 16 02:38:32 LinuxDaily systemd: Stopping LSB: Bring up/down networking...
+Apr 16 02:38:32 LinuxDaily NetworkManager[986]: <info>  [1713249512.6674] ifcfg-rh: update /etc/sysconfig/network-scripts/ifcfg-ens160 (be1d572f-294a-473c-a41a-3e09ecd95f20,"ens160")
+Apr 16 02:38:32 LinuxDaily NetworkManager[986]: <info>  [1713249512.8002] device (ens160): state change: activated -> deactivating (reason 'user-requested', sys-iface-state: 'managed')
+Apr 16 02:38:32 LinuxDaily NetworkManager[986]: <info>  [1713249512.8044] manager: NetworkManager state is now CONNECTED_LOCAL
+Apr 16 02:38:32 LinuxDaily NetworkManager[986]: <info>  [1713249512.8049] audit: op="device-disconnect" interface="ens160" ifindex=2 pid=18664 uid=0 result="success"
+Apr 16 02:38:32 LinuxDaily NetworkManager[986]: <info>  [1713249512.8050] device (ens160): state change: deactivating -> disconnected (reason 'user-requested', sys-iface-state: 'managed')
+Apr 16 02:38:32 LinuxDaily avahi-daemon[805]: Withdrawing address record for fe80::250:56ff:fea6:f341 on ens160.
+Apr 16 02:38:32 LinuxDaily dbus[833]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Apr 16 02:38:32 LinuxDaily avahi-daemon[805]: Withdrawing address record for 192.168.1.118 on ens160.
+Apr 16 02:38:32 LinuxDaily systemd: Starting Network Manager Script Dispatcher Service...
+Apr 16 02:38:32 LinuxDaily avahi-daemon[805]: Leaving mDNS multicast group on interface ens160.IPv4 with address 192.168.1.118.
+Apr 16 02:38:32 LinuxDaily avahi-daemon[805]: Interface ens160.IPv4 no longer relevant for mDNS.
+Apr 16 02:38:32 LinuxDaily network: Shutting down interface ens160:  Device 'ens160' successfully disconnected.
+Apr 16 02:38:32 LinuxDaily network: [  OK  ]
+Apr 16 02:38:32 LinuxDaily dbus[833]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Apr 16 02:38:32 LinuxDaily systemd: Started Network Manager Script Dispatcher Service.
+Apr 16 02:38:32 LinuxDaily nm-dispatcher: req:1 'connectivity-change': new request (4 scripts)
+Apr 16 02:38:32 LinuxDaily nm-dispatcher: req:1 'connectivity-change': start running ordered scripts...
+Apr 16 02:38:32 LinuxDaily nm-dispatcher: req:2 'down' [ens160]: new request (4 scripts)
+Apr 16 02:38:32 LinuxDaily nm-dispatcher: req:2 'down' [ens160]: start running ordered scripts...
+Apr 16 02:38:33 LinuxDaily network: Shutting down loopback interface:  [  OK  ]
+Apr 16 02:38:33 LinuxDaily systemd: Stopped LSB: Bring up/down networking.
+Apr 16 02:38:33 LinuxDaily systemd: Starting LSB: Bring up/down networking...
+Apr 16 02:38:33 LinuxDaily NetworkManager[986]: <info>  [1713249513.6503] device (lo): carrier: link connected
+Apr 16 02:38:33 LinuxDaily NET[18913]: /etc/sysconfig/network-scripts/ifup-post : updated /etc/resolv.conf
+Apr 16 02:38:33 LinuxDaily network: Bringing up loopback interface:  [  OK  ]
+Apr 16 02:38:34 LinuxDaily NetworkManager[986]: <info>  [1713249514.0285] agent-manager: req[0x563f3b2d9650, :1.463/nmcli-connect/0]: agent registered
+Apr 16 02:38:34 LinuxDaily NetworkManager[986]: <info>  [1713249514.0312] device (ens160): Activation: starting connection 'ens160' (be1d572f-294a-473c-a41a-3e09ecd95f20)
+Apr 16 02:38:34 LinuxDaily NetworkManager[986]: <info>  [1713249514.0313] audit: op="connection-activate" uuid="be1d572f-294a-473c-a41a-3e09ecd95f20" name="ens160" pid=18936 uid=0 result="success"
+Apr 16 02:38:34 LinuxDaily NetworkManager[986]: <info>  [1713249514.0315] device (ens160): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+Apr 16 02:38:34 LinuxDaily NetworkManager[986]: <info>  [1713249514.0320] manager: NetworkManager state is now CONNECTING
+Apr 16 02:38:34 LinuxDaily NetworkManager[986]: <info>  [1713249514.0322] device (ens160): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+Apr 16 02:38:34 LinuxDaily NetworkManager[986]: <info>  [1713249514.0773] device (ens160): state change: config -> ip-config (reason 'none', sys-iface-state: 'managed')
+Apr 16 02:38:34 LinuxDaily NetworkManager[986]: <info>  [1713249514.0796] device (ens160): state change: ip-config -> ip-check (reason 'none', sys-iface-state: 'managed')
+Apr 16 02:38:34 LinuxDaily NetworkManager[986]: <info>  [1713249514.0805] device (ens160): state change: ip-check -> secondaries (reason 'none', sys-iface-state: 'managed')
+Apr 16 02:38:34 LinuxDaily NetworkManager[986]: <info>  [1713249514.0807] device (ens160): state change: secondaries -> activated (reason 'none', sys-iface-state: 'managed')
+Apr 16 02:38:34 LinuxDaily NetworkManager[986]: <info>  [1713249514.0837] manager: NetworkManager state is now CONNECTED_LOCAL
+Apr 16 02:38:34 LinuxDaily NetworkManager[986]: <info>  [1713249514.0874] device (ens160): Activation: successful, device activated.
+Apr 16 02:38:34 LinuxDaily network: Bringing up interface ens160:  Connection successfully activated (D-Bus active path: /org/freedesktop/NetworkManager/ActiveConnection/4)
+Apr 16 02:38:34 LinuxDaily nm-dispatcher: req:3 'up' [ens160]: new request (4 scripts)
+Apr 16 02:38:34 LinuxDaily nm-dispatcher: req:3 'up' [ens160]: start running ordered scripts...
+Apr 16 02:38:34 LinuxDaily network: [  OK  ]
+Apr 16 02:38:34 LinuxDaily systemd: Unit iscsi.service cannot be reloaded because it is inactive.
+Apr 16 02:38:34 LinuxDaily systemd: Started LSB: Bring up/down networking.
+Apr 16 02:38:35 LinuxDaily avahi-daemon[805]: Registering new address record for fe80::250:56ff:fea6:f341 on ens160.*.
+Apr 16 02:40:01 LinuxDaily systemd: Started Session 187 of user root.
+Apr 16 02:50:01 LinuxDaily systemd: Started Session 188 of user root.
+Apr 16 02:56:05 LinuxDaily systemd-logind: Removed session 116.
+Apr 16 02:56:05 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 03:00:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 03:00:01 LinuxDaily systemd: Started Session 189 of user root.
+Apr 16 03:00:02 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 03:01:02 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 03:01:02 LinuxDaily systemd: Started Session 190 of user root.
+Apr 16 03:06:02 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 03:10:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 03:10:01 LinuxDaily systemd: Started Session 191 of user root.
+Apr 16 03:10:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 03:20:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 03:20:01 LinuxDaily systemd: Started Session 192 of user root.
+Apr 16 03:20:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 03:30:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 03:30:01 LinuxDaily systemd: Started Session 193 of user root.
+Apr 16 03:30:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 03:40:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 03:40:01 LinuxDaily systemd: Started Session 194 of user root.
+Apr 16 03:40:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 03:50:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 03:50:01 LinuxDaily systemd: Started Session 195 of user root.
+Apr 16 03:50:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 04:00:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 04:00:01 LinuxDaily systemd: Started Session 196 of user root.
+Apr 16 04:00:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 04:01:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 04:01:01 LinuxDaily systemd: Started Session 197 of user root.
+Apr 16 04:01:02 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 04:10:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 04:10:01 LinuxDaily systemd: Started Session 198 of user root.
+Apr 16 04:10:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 04:20:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 04:20:01 LinuxDaily systemd: Started Session 199 of user root.
+Apr 16 04:20:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 04:30:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 04:30:01 LinuxDaily systemd: Started Session 200 of user root.
+Apr 16 04:30:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 04:40:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 04:40:01 LinuxDaily systemd: Started Session 201 of user root.
+Apr 16 04:40:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 04:50:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 04:50:01 LinuxDaily systemd: Started Session 202 of user root.
+Apr 16 04:50:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 05:00:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 05:00:01 LinuxDaily systemd: Started Session 203 of user root.
+Apr 16 05:00:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 05:01:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 05:01:01 LinuxDaily systemd: Started Session 204 of user root.
+Apr 16 05:01:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 05:10:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 05:10:01 LinuxDaily systemd: Started Session 205 of user root.
+Apr 16 05:10:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 05:20:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 05:20:01 LinuxDaily systemd: Started Session 206 of user root.
+Apr 16 05:20:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 05:30:02 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 05:30:02 LinuxDaily systemd: Started Session 207 of user root.
+Apr 16 05:30:02 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 05:40:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 05:40:01 LinuxDaily systemd: Started Session 208 of user root.
+Apr 16 05:40:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 05:50:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 05:50:01 LinuxDaily systemd: Started Session 209 of user root.
+Apr 16 05:50:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 06:00:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 06:00:01 LinuxDaily systemd: Started Session 210 of user root.
+Apr 16 06:00:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 06:01:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 06:01:01 LinuxDaily systemd: Started Session 211 of user root.
+Apr 16 06:01:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 06:10:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 06:10:01 LinuxDaily systemd: Started Session 212 of user root.
+Apr 16 06:10:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 06:20:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 06:20:01 LinuxDaily systemd: Started Session 213 of user root.
+Apr 16 06:20:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 06:30:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 06:30:02 LinuxDaily systemd: Started Session 214 of user root.
+Apr 16 06:30:02 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 06:40:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 06:40:01 LinuxDaily systemd: Started Session 215 of user root.
+Apr 16 06:40:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 06:50:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 06:50:01 LinuxDaily systemd: Started Session 216 of user root.
+Apr 16 06:50:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 07:00:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 07:00:01 LinuxDaily systemd: Started Session 217 of user root.
+Apr 16 07:00:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 07:01:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 07:01:01 LinuxDaily systemd: Started Session 218 of user root.
+Apr 16 07:01:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 07:10:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 07:10:01 LinuxDaily systemd: Started Session 219 of user root.
+Apr 16 07:10:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 07:20:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 07:20:01 LinuxDaily systemd: Started Session 220 of user root.
+Apr 16 07:20:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 07:30:02 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 07:30:02 LinuxDaily systemd: Started Session 221 of user root.
+Apr 16 07:30:02 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 07:40:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 07:40:01 LinuxDaily systemd: Started Session 222 of user root.
+Apr 16 07:40:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 07:50:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 07:50:01 LinuxDaily systemd: Started Session 223 of user root.
+Apr 16 07:50:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 08:00:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 08:00:01 LinuxDaily systemd: Started Session 224 of user root.
+Apr 16 08:00:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 08:01:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 08:01:01 LinuxDaily systemd: Started Session 225 of user root.
+Apr 16 08:01:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 08:10:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 08:10:01 LinuxDaily systemd: Started Session 226 of user root.
+Apr 16 08:10:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 08:20:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 08:20:01 LinuxDaily systemd: Started Session 227 of user root.
+Apr 16 08:20:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 08:30:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 08:30:01 LinuxDaily systemd: Started Session 228 of user root.
+Apr 16 08:30:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 08:40:02 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 08:40:02 LinuxDaily systemd: Started Session 229 of user root.
+Apr 16 08:40:02 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 08:50:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 08:50:01 LinuxDaily systemd: Started Session 230 of user root.
+Apr 16 08:50:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 09:00:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 09:00:01 LinuxDaily systemd: Started Session 231 of user root.
+Apr 16 09:00:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 09:01:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 09:01:01 LinuxDaily systemd: Started Session 232 of user root.
+Apr 16 09:01:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 09:10:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 09:10:01 LinuxDaily systemd: Started Session 233 of user root.
+Apr 16 09:10:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 09:20:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 09:20:01 LinuxDaily systemd: Started Session 234 of user root.
+Apr 16 09:20:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 09:30:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 09:30:01 LinuxDaily systemd: Started Session 235 of user root.
+Apr 16 09:30:02 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 09:40:02 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 09:40:02 LinuxDaily systemd: Started Session 236 of user root.
+Apr 16 09:40:02 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 09:50:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 09:50:01 LinuxDaily systemd: Started Session 237 of user root.
+Apr 16 09:50:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 10:00:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 10:00:01 LinuxDaily systemd: Started Session 238 of user root.
+Apr 16 10:00:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 10:01:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 10:01:01 LinuxDaily systemd: Started Session 239 of user root.
+Apr 16 10:01:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 10:10:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 10:10:01 LinuxDaily systemd: Started Session 240 of user root.
+Apr 16 10:10:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 10:20:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 10:20:01 LinuxDaily systemd: Started Session 241 of user root.
+Apr 16 10:20:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 10:30:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 10:30:01 LinuxDaily systemd: Started Session 242 of user root.
+Apr 16 10:30:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 10:40:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 10:40:01 LinuxDaily systemd: Started Session 243 of user root.
+Apr 16 10:40:02 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 10:50:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 10:50:01 LinuxDaily systemd: Started Session 244 of user root.
+Apr 16 10:50:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 11:00:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 11:00:01 LinuxDaily systemd: Started Session 245 of user root.
+Apr 16 11:00:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 11:01:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 11:01:01 LinuxDaily systemd: Started Session 246 of user root.
+Apr 16 11:01:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 11:10:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 11:10:01 LinuxDaily systemd: Started Session 247 of user root.
+Apr 16 11:10:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 11:20:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 11:20:01 LinuxDaily systemd: Started Session 248 of user root.
+Apr 16 11:20:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 11:30:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 11:30:01 LinuxDaily systemd: Started Session 249 of user root.
+Apr 16 11:30:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 11:40:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 11:40:01 LinuxDaily systemd: Started Session 250 of user root.
+Apr 16 11:40:02 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 11:50:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 11:50:01 LinuxDaily systemd: Started Session 251 of user root.
+Apr 16 11:50:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 12:00:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 12:00:01 LinuxDaily systemd: Started Session 252 of user root.
+Apr 16 12:00:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 12:01:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 12:01:01 LinuxDaily systemd: Started Session 253 of user root.
+Apr 16 12:01:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 12:10:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 12:10:01 LinuxDaily systemd: Started Session 254 of user root.
+Apr 16 12:10:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 12:20:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 12:20:01 LinuxDaily systemd: Started Session 255 of user root.
+Apr 16 12:20:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 12:30:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 12:30:01 LinuxDaily systemd: Started Session 256 of user root.
+Apr 16 12:30:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 12:40:02 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 12:40:02 LinuxDaily systemd: Started Session 257 of user root.
+Apr 16 12:40:02 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 12:50:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 12:50:01 LinuxDaily systemd: Started Session 258 of user root.
+Apr 16 12:50:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 13:00:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 13:00:01 LinuxDaily systemd: Started Session 259 of user root.
+Apr 16 13:00:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 13:01:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 13:01:01 LinuxDaily systemd: Started Session 260 of user root.
+Apr 16 13:01:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 13:10:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 13:10:01 LinuxDaily systemd: Started Session 261 of user root.
+Apr 16 13:10:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 13:20:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 13:20:01 LinuxDaily systemd: Started Session 262 of user root.
+Apr 16 13:20:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 13:30:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 13:30:01 LinuxDaily systemd: Started Session 263 of user root.
+Apr 16 13:30:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 13:40:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 13:40:02 LinuxDaily systemd: Started Session 264 of user root.
+Apr 16 13:40:02 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 13:50:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 13:50:01 LinuxDaily systemd: Started Session 265 of user root.
+Apr 16 13:50:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 14:00:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 14:00:01 LinuxDaily systemd: Started Session 266 of user root.
+Apr 16 14:00:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 14:01:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 14:01:01 LinuxDaily systemd: Started Session 267 of user root.
+Apr 16 14:01:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 14:10:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 14:10:01 LinuxDaily systemd: Started Session 268 of user root.
+Apr 16 14:10:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 14:20:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 14:20:01 LinuxDaily systemd: Started Session 269 of user root.
+Apr 16 14:20:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 14:30:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 14:30:01 LinuxDaily systemd: Started Session 270 of user root.
+Apr 16 14:30:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 14:40:02 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 14:40:02 LinuxDaily systemd: Started Session 271 of user root.
+Apr 16 14:40:02 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 14:50:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 14:50:01 LinuxDaily systemd: Started Session 272 of user root.
+Apr 16 14:50:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 15:00:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 15:00:01 LinuxDaily systemd: Started Session 273 of user root.
+Apr 16 15:00:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 15:01:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 15:01:01 LinuxDaily systemd: Started Session 274 of user root.
+Apr 16 15:01:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 15:10:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 15:10:01 LinuxDaily systemd: Started Session 275 of user root.
+Apr 16 15:10:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 15:20:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 15:20:01 LinuxDaily systemd: Started Session 276 of user root.
+Apr 16 15:20:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 15:30:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 15:30:01 LinuxDaily systemd: Started Session 277 of user root.
+Apr 16 15:30:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 15:40:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 15:40:01 LinuxDaily systemd: Started Session 278 of user root.
+Apr 16 15:40:02 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 15:50:02 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 15:50:02 LinuxDaily systemd: Started Session 279 of user root.
+Apr 16 15:50:02 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 16:00:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 16:00:01 LinuxDaily systemd: Started Session 280 of user root.
+Apr 16 16:00:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 16:01:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 16:01:01 LinuxDaily systemd: Started Session 281 of user root.
+Apr 16 16:01:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 16:10:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 16:10:01 LinuxDaily systemd: Started Session 282 of user root.
+Apr 16 16:10:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 16:20:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 16:20:01 LinuxDaily systemd: Started Session 283 of user root.
+Apr 16 16:20:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 16:30:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 16:30:01 LinuxDaily systemd: Started Session 284 of user root.
+Apr 16 16:30:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 16:40:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 16:40:01 LinuxDaily systemd: Started Session 285 of user root.
+Apr 16 16:40:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 16:50:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 16:50:02 LinuxDaily systemd: Started Session 286 of user root.
+Apr 16 16:50:02 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 17:00:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 17:00:01 LinuxDaily systemd: Started Session 287 of user root.
+Apr 16 17:00:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 17:01:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 17:01:01 LinuxDaily systemd: Started Session 288 of user root.
+Apr 16 17:01:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 17:10:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 17:10:01 LinuxDaily systemd: Started Session 289 of user root.
+Apr 16 17:10:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 17:20:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 17:20:01 LinuxDaily systemd: Started Session 290 of user root.
+Apr 16 17:20:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 17:30:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 17:30:01 LinuxDaily systemd: Started Session 291 of user root.
+Apr 16 17:30:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 17:40:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 17:40:01 LinuxDaily systemd: Started Session 292 of user root.
+Apr 16 17:40:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 17:50:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 17:50:01 LinuxDaily systemd: Started Session 293 of user root.
+Apr 16 17:50:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 18:00:02 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 18:00:02 LinuxDaily systemd: Started Session 294 of user root.
+Apr 16 18:00:02 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 18:01:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 18:01:01 LinuxDaily systemd: Started Session 295 of user root.
+Apr 16 18:01:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 18:10:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 18:10:01 LinuxDaily systemd: Started Session 296 of user root.
+Apr 16 18:10:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 18:20:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 18:20:01 LinuxDaily systemd: Started Session 297 of user root.
+Apr 16 18:20:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 18:30:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 18:30:01 LinuxDaily systemd: Started Session 298 of user root.
+Apr 16 18:30:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 18:40:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 18:40:01 LinuxDaily systemd: Started Session 299 of user root.
+Apr 16 18:40:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 18:50:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 18:50:01 LinuxDaily systemd: Started Session 300 of user root.
+Apr 16 18:50:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 19:00:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 19:00:01 LinuxDaily systemd: Started Session 301 of user root.
+Apr 16 19:00:02 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 19:01:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 19:01:01 LinuxDaily systemd: Started Session 302 of user root.
+Apr 16 19:01:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 19:10:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 19:10:01 LinuxDaily systemd: Started Session 303 of user root.
+Apr 16 19:10:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 19:20:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 19:20:01 LinuxDaily systemd: Started Session 304 of user root.
+Apr 16 19:20:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 19:30:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 19:30:01 LinuxDaily systemd: Started Session 305 of user root.
+Apr 16 19:30:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 19:40:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 19:40:01 LinuxDaily systemd: Started Session 306 of user root.
+Apr 16 19:40:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 19:50:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 19:50:01 LinuxDaily systemd: Started Session 307 of user root.
+Apr 16 19:50:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 20:00:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 20:00:01 LinuxDaily systemd: Started Session 308 of user root.
+Apr 16 20:00:02 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 20:01:02 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 20:01:02 LinuxDaily systemd: Started Session 309 of user root.
+Apr 16 20:01:02 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 20:10:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 20:10:01 LinuxDaily systemd: Started Session 310 of user root.
+Apr 16 20:10:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 20:20:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 20:20:01 LinuxDaily systemd: Started Session 311 of user root.
+Apr 16 20:20:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 20:30:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 20:30:01 LinuxDaily systemd: Started Session 312 of user root.
+Apr 16 20:30:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 20:40:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 20:40:01 LinuxDaily systemd: Started Session 313 of user root.
+Apr 16 20:40:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 20:50:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 20:50:01 LinuxDaily systemd: Started Session 314 of user root.
+Apr 16 20:50:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 21:00:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 21:00:01 LinuxDaily systemd: Started Session 315 of user root.
+Apr 16 21:00:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 21:01:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 21:01:02 LinuxDaily systemd: Started Session 316 of user root.
+Apr 16 21:01:02 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 21:10:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 21:10:01 LinuxDaily systemd: Started Session 317 of user root.
+Apr 16 21:10:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 21:20:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 21:20:01 LinuxDaily systemd: Started Session 318 of user root.
+Apr 16 21:20:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 21:30:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 21:30:01 LinuxDaily systemd: Started Session 319 of user root.
+Apr 16 21:30:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 21:40:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 21:40:01 LinuxDaily systemd: Started Session 320 of user root.
+Apr 16 21:40:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 21:50:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 21:50:01 LinuxDaily systemd: Started Session 321 of user root.
+Apr 16 21:50:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 22:00:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 22:00:01 LinuxDaily systemd: Started Session 322 of user root.
+Apr 16 22:00:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 22:01:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 22:01:01 LinuxDaily systemd: Started Session 323 of user root.
+Apr 16 22:01:02 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 22:10:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 22:10:01 LinuxDaily systemd: Started Session 324 of user root.
+Apr 16 22:10:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 22:20:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 22:20:01 LinuxDaily systemd: Started Session 325 of user root.
+Apr 16 22:20:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 22:30:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 22:30:01 LinuxDaily systemd: Started Session 326 of user root.
+Apr 16 22:30:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 22:40:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 22:40:01 LinuxDaily systemd: Started Session 327 of user root.
+Apr 16 22:40:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 22:50:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 22:50:01 LinuxDaily systemd: Started Session 328 of user root.
+Apr 16 22:50:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 23:00:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 23:00:01 LinuxDaily systemd: Started Session 329 of user root.
+Apr 16 23:00:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 23:01:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 23:01:01 LinuxDaily systemd: Started Session 330 of user root.
+Apr 16 23:01:02 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 23:10:02 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 23:10:02 LinuxDaily systemd: Started Session 331 of user root.
+Apr 16 23:10:02 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 23:20:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 23:20:01 LinuxDaily systemd: Started Session 332 of user root.
+Apr 16 23:20:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 23:30:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 23:30:01 LinuxDaily systemd: Started Session 333 of user root.
+Apr 16 23:30:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 23:40:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 23:40:01 LinuxDaily systemd: Started Session 334 of user root.
+Apr 16 23:40:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 23:50:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 23:50:01 LinuxDaily systemd: Started Session 335 of user root.
+Apr 16 23:50:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 16 23:53:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 16 23:53:01 LinuxDaily systemd: Started Session 336 of user root.
+Apr 16 23:53:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 17 00:00:01 LinuxDaily systemd: Starting update of the root trust anchor for DNSSEC validation in unbound...
+Apr 17 00:00:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 17 00:00:01 LinuxDaily systemd: Started update of the root trust anchor for DNSSEC validation in unbound.
+Apr 17 00:00:01 LinuxDaily systemd: Started Session 337 of user root.
+Apr 17 00:00:02 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 17 00:01:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 17 00:01:01 LinuxDaily systemd: Started Session 338 of user root.
+Apr 17 00:01:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 17 00:10:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 17 00:10:01 LinuxDaily systemd: Started Session 339 of user root.
+Apr 17 00:10:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 17 00:20:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 17 00:20:01 LinuxDaily systemd: Started Session 340 of user root.
+Apr 17 00:20:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 17 00:30:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 17 00:30:01 LinuxDaily systemd: Started Session 341 of user root.
+Apr 17 00:30:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 17 00:40:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 17 00:40:01 LinuxDaily systemd: Started Session 342 of user root.
+Apr 17 00:40:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 17 00:50:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 17 00:50:01 LinuxDaily systemd: Started Session 343 of user root.
+Apr 17 00:50:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 17 01:00:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 17 01:00:01 LinuxDaily systemd: Started Session 344 of user root.
+Apr 17 01:00:02 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 17 01:01:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 17 01:01:01 LinuxDaily systemd: Started Session 345 of user root.
+Apr 17 01:01:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 17 01:10:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 17 01:10:01 LinuxDaily systemd: Started Session 346 of user root.
+Apr 17 01:10:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 17 01:16:18 LinuxDaily systemd: Starting Cleanup of Temporary Directories...
+Apr 17 01:16:18 LinuxDaily systemd: Started Cleanup of Temporary Directories.
+Apr 17 01:20:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 17 01:20:01 LinuxDaily systemd: Started Session 347 of user root.
+Apr 17 01:20:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 17 01:30:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 17 01:30:01 LinuxDaily systemd: Started Session 348 of user root.
+Apr 17 01:30:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 17 01:40:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 17 01:40:01 LinuxDaily systemd: Started Session 349 of user root.
+Apr 17 01:40:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 17 01:50:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 17 01:50:01 LinuxDaily systemd: Started Session 350 of user root.
+Apr 17 01:50:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 17 02:00:02 LinuxDaily systemd: Created slice User Slice of root.
+Apr 17 02:00:02 LinuxDaily systemd: Started Session 351 of user root.
+Apr 17 02:00:02 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 17 02:01:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 17 02:01:01 LinuxDaily systemd: Started Session 352 of user root.
+Apr 17 02:01:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 17 02:07:14 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 17 02:07:14 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 17 02:07:14 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 17 02:07:23 LinuxDaily dbus[833]: [system] Activating via systemd: service name='net.reactivated.Fprint' unit='fprintd.service'
+Apr 17 02:07:23 LinuxDaily systemd: Starting Fingerprint Authentication Daemon...
+Apr 17 02:07:24 LinuxDaily dbus[833]: [system] Successfully activated service 'net.reactivated.Fprint'
+Apr 17 02:07:24 LinuxDaily systemd: Started Fingerprint Authentication Daemon.
+Apr 17 02:07:29 LinuxDaily systemd: Created slice User Slice of admin.
+Apr 17 02:07:29 LinuxDaily systemd: Started Session 353 of user admin.
+Apr 17 02:07:29 LinuxDaily systemd-logind: New session 353 of user admin.
+Apr 17 02:07:31 LinuxDaily gnome-session-binary[1815]: WARNING: Lost name on bus: org.gnome.SessionManager
+Apr 17 02:07:31 LinuxDaily gnome-session: gnome-session-binary[1815]: WARNING: Lost name on bus: org.gnome.SessionManager
+Apr 17 02:07:31 LinuxDaily journal: Cannot open display: 
+Apr 17 02:07:32 LinuxDaily com.redhat.imsettings: [ 1713334052.319506]: IMSettings-Daemon[1541]: INFO: Starting imsettings-daemon...
+Apr 17 02:07:32 LinuxDaily com.redhat.imsettings: [ 1713334052.319701]: IMSettings-Daemon[1541]: INFO:   [HOME=/home/admin/.config/imsettings]
+Apr 17 02:07:32 LinuxDaily com.redhat.imsettings: [ 1713334052.319747]: IMSettings-Daemon[1541]: INFO:   [XINPUTRCDIR=/etc/X11/xinit/]
+Apr 17 02:07:32 LinuxDaily com.redhat.imsettings: [ 1713334052.319784]: IMSettings-Daemon[1541]: INFO:   [XINPUTDIR=/etc/X11/xinit/xinput.d/]
+Apr 17 02:07:32 LinuxDaily com.redhat.imsettings: [ 1713334052.319817]: IMSettings-Daemon[1541]: INFO:   [MODULEDIR=/usr/lib64/imsettings]
+Apr 17 02:07:32 LinuxDaily com.redhat.imsettings: [ 1713334052.319870]: IMSettings-Daemon[1541]: INFO:   [MODULES=gsettings]
+Apr 17 02:07:32 LinuxDaily org.a11y.Bus: Activating service name='org.a11y.atspi.Registry'
+Apr 17 02:07:32 LinuxDaily org.a11y.Bus: Successfully activated service 'org.a11y.atspi.Registry'
+Apr 17 02:07:32 LinuxDaily org.a11y.atspi.Registry: SpiRegistry daemon is running with well-known name - org.a11y.atspi.Registry
+Apr 17 02:07:32 LinuxDaily gnome-session: _IceTransSocketUNIXCreateListener: ...SocketCreateListener() failed
+Apr 17 02:07:32 LinuxDaily gnome-session: _IceTransMakeAllCOTSServerListeners: server already running
+Apr 17 02:07:32 LinuxDaily org.gtk.vfs.Daemon: A connection to the bus can't be made
+Apr 17 02:07:32 LinuxDaily com.redhat.imsettings: [ 1713334052.893055]: IMSettings-Daemon[1541]: INFO: Release the ownership of com.redhat.imsettings
+Apr 17 02:07:32 LinuxDaily com.redhat.imsettings: Exiting...
+Apr 17 02:07:32 LinuxDaily com.redhat.imsettings: [ 1713334052.893385]: GLib-GIO[1541]: CRITICAL **: Error while sending AddMatch() message: The connection is closed
+Apr 17 02:07:32 LinuxDaily com.redhat.imsettings: [ 1713334052.893469]: GLib-GIO[1541]: CRITICAL **: Error while sending AddMatch() message: The connection is closed
+Apr 17 02:07:32 LinuxDaily com.redhat.imsettings: [ 1713334052.893599]: IMSettings-Daemon[1541]: INFO: Unloading imesttings module: gsettings
+Apr 17 02:07:32 LinuxDaily com.redhat.imsettings: [ 1713334052.893683]: IMSettings-Daemon[1541]: INFO: imsettings-daemon is shut down.
+Apr 17 02:07:33 LinuxDaily systemd: Started Session c2 of user gdm.
+Apr 17 02:07:33 LinuxDaily systemd-logind: New session c2 of user gdm.
+Apr 17 02:07:33 LinuxDaily org.a11y.Bus: Activating service name='org.a11y.atspi.Registry'
+Apr 17 02:07:33 LinuxDaily org.a11y.Bus: Successfully activated service 'org.a11y.atspi.Registry'
+Apr 17 02:07:33 LinuxDaily org.a11y.atspi.Registry: SpiRegistry daemon is running with well-known name - org.a11y.atspi.Registry
+Apr 17 02:07:33 LinuxDaily gnome-session: generating cookie with syscall
+Apr 17 02:07:33 LinuxDaily gnome-session: generating cookie with syscall
+Apr 17 02:07:33 LinuxDaily gnome-session: generating cookie with syscall
+Apr 17 02:07:33 LinuxDaily gnome-session: generating cookie with syscall
+Apr 17 02:07:34 LinuxDaily dbus[833]: [system] Activating via systemd: service name='org.freedesktop.locale1' unit='dbus-org.freedesktop.locale1.service'
+Apr 17 02:07:34 LinuxDaily systemd: Starting Locale Service...
+Apr 17 02:07:34 LinuxDaily dbus[833]: [system] Successfully activated service 'org.freedesktop.locale1'
+Apr 17 02:07:34 LinuxDaily systemd: Started Locale Service.
+Apr 17 02:07:34 LinuxDaily dbus[833]: [system] Activating via systemd: service name='org.freedesktop.GeoClue2' unit='geoclue.service'
+Apr 17 02:07:34 LinuxDaily systemd: Starting Location Lookup Service...
+Apr 17 02:07:34 LinuxDaily dbus[833]: [system] Successfully activated service 'org.freedesktop.GeoClue2'
+Apr 17 02:07:34 LinuxDaily systemd: Started Location Lookup Service.
+Apr 17 02:07:34 LinuxDaily dbus[833]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service'
+Apr 17 02:07:34 LinuxDaily systemd: Starting Hostname Service...
+Apr 17 02:07:34 LinuxDaily dbus[833]: [system] Activating via systemd: service name='org.freedesktop.realmd' unit='realmd.service'
+Apr 17 02:07:34 LinuxDaily systemd: Starting Realm and Domain Configuration...
+Apr 17 02:07:34 LinuxDaily dbus[833]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Apr 17 02:07:34 LinuxDaily systemd: Started Hostname Service.
+Apr 17 02:07:35 LinuxDaily spice-vdagent[1892]: Cannot access vdagent virtio channel /dev/virtio-ports/com.redhat.spice.0
+Apr 17 02:07:35 LinuxDaily gnome-session: gnome-session-binary[1700]: WARNING: App 'spice-vdagent.desktop' exited with code 1
+Apr 17 02:07:35 LinuxDaily gnome-session-binary[1700]: WARNING: App 'spice-vdagent.desktop' exited with code 1
+Apr 17 02:07:35 LinuxDaily dbus[833]: [system] Successfully activated service 'org.freedesktop.realmd'
+Apr 17 02:07:35 LinuxDaily systemd: Started Realm and Domain Configuration.
+Apr 17 02:07:35 LinuxDaily gnome-session-binary: Entering running state
+Apr 17 02:07:35 LinuxDaily spice-streaming-agent[1894]: Failed to open the streaming device "/dev/virtio-ports/org.spice-space.stream.0": 2 - No such file or directory
+Apr 17 02:07:35 LinuxDaily journal: failed to get edid: unable to get EDID for output
+Apr 17 02:07:35 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 17 02:07:35 LinuxDaily journal: Screen lock is locked down, not locking
+Apr 17 02:07:42 LinuxDaily systemd-logind: Removed session 353.
+Apr 17 02:07:42 LinuxDaily systemd: Removed slice User Slice of admin.
+Apr 17 02:07:46 LinuxDaily systemd: Created slice User Slice of admin.
+Apr 17 02:07:46 LinuxDaily systemd: Started Session 354 of user admin.
+Apr 17 02:07:46 LinuxDaily systemd-logind: New session 354 of user admin.
+Apr 17 02:07:48 LinuxDaily gnome-session-binary[1700]: WARNING: Application 'org.gnome.SettingsDaemon.Housekeeping.desktop' killed by signal 15
+Apr 17 02:07:48 LinuxDaily gnome-session: gnome-session-binary[1700]: WARNING: Application 'org.gnome.SettingsDaemon.Housekeeping.desktop' killed by signal 15
+Apr 17 02:07:48 LinuxDaily gnome-session: gnome-session-binary[1700]: WARNING: Application 'org.gnome.SettingsDaemon.Keyboard.desktop' killed by signal 15
+Apr 17 02:07:48 LinuxDaily gnome-session: gnome-session-binary[1700]: WARNING: Application 'org.gnome.SettingsDaemon.MediaKeys.desktop' killed by signal 15
+Apr 17 02:07:48 LinuxDaily gnome-session: gnome-session-binary[1700]: WARNING: Application 'org.gnome.SettingsDaemon.Mouse.desktop' killed by signal 15
+Apr 17 02:07:48 LinuxDaily gnome-session: gnome-session-binary[1700]: WARNING: Application 'org.gnome.SettingsDaemon.Power.desktop' killed by signal 15
+Apr 17 02:07:48 LinuxDaily gnome-session: gnome-session-binary[1700]: WARNING: Application 'org.gnome.SettingsDaemon.PrintNotifications.desktop' killed by signal 15
+Apr 17 02:07:48 LinuxDaily gnome-session: gnome-session-binary[1700]: WARNING: Application 'org.gnome.SettingsDaemon.Rfkill.desktop' killed by signal 15
+Apr 17 02:07:48 LinuxDaily gnome-session: gnome-session-binary[1700]: WARNING: Application 'org.gnome.SettingsDaemon.ScreensaverProxy.desktop' killed by signal 15
+Apr 17 02:07:48 LinuxDaily gnome-session: gnome-session-binary[1700]: WARNING: Application 'org.gnome.SettingsDaemon.Sharing.desktop' killed by signal 15
+Apr 17 02:07:48 LinuxDaily gnome-session: gnome-session-binary[1700]: WARNING: Application 'org.gnome.SettingsDaemon.Smartcard.desktop' killed by signal 15
+Apr 17 02:07:48 LinuxDaily gnome-session: gnome-session-binary[1700]: WARNING: Application 'org.gnome.SettingsDaemon.Wacom.desktop' killed by signal 15
+Apr 17 02:07:48 LinuxDaily gnome-session: gnome-session-binary[1700]: WARNING: Lost name on bus: org.gnome.SessionManager
+Apr 17 02:07:48 LinuxDaily gnome-session-binary[1700]: WARNING: Application 'org.gnome.SettingsDaemon.Keyboard.desktop' killed by signal 15
+Apr 17 02:07:48 LinuxDaily gnome-session-binary[1700]: WARNING: Application 'org.gnome.SettingsDaemon.MediaKeys.desktop' killed by signal 15
+Apr 17 02:07:48 LinuxDaily gnome-session-binary[1700]: WARNING: Application 'org.gnome.SettingsDaemon.Mouse.desktop' killed by signal 15
+Apr 17 02:07:48 LinuxDaily gnome-session-binary[1700]: WARNING: Application 'org.gnome.SettingsDaemon.Power.desktop' killed by signal 15
+Apr 17 02:07:48 LinuxDaily gnome-session-binary[1700]: WARNING: Application 'org.gnome.SettingsDaemon.PrintNotifications.desktop' killed by signal 15
+Apr 17 02:07:48 LinuxDaily gnome-session-binary[1700]: WARNING: Application 'org.gnome.SettingsDaemon.Rfkill.desktop' killed by signal 15
+Apr 17 02:07:48 LinuxDaily gnome-session-binary[1700]: WARNING: Application 'org.gnome.SettingsDaemon.ScreensaverProxy.desktop' killed by signal 15
+Apr 17 02:07:48 LinuxDaily gnome-session-binary[1700]: WARNING: Application 'org.gnome.SettingsDaemon.Sharing.desktop' killed by signal 15
+Apr 17 02:07:48 LinuxDaily gnome-session-binary[1700]: WARNING: Application 'org.gnome.SettingsDaemon.Smartcard.desktop' killed by signal 15
+Apr 17 02:07:48 LinuxDaily gnome-session-binary[1700]: WARNING: Application 'org.gnome.SettingsDaemon.Wacom.desktop' killed by signal 15
+Apr 17 02:07:48 LinuxDaily gnome-session-binary[1700]: WARNING: Lost name on bus: org.gnome.SessionManager
+Apr 17 02:07:49 LinuxDaily journal: Cannot open display: 
+Apr 17 02:07:49 LinuxDaily systemd-logind: Removed session c2.
+Apr 17 02:07:49 LinuxDaily com.redhat.imsettings: [ 1713334069.519638]: IMSettings-Daemon[2046]: INFO: Starting imsettings-daemon...
+Apr 17 02:07:49 LinuxDaily com.redhat.imsettings: [ 1713334069.519859]: IMSettings-Daemon[2046]: INFO:   [HOME=/home/admin/.config/imsettings]
+Apr 17 02:07:49 LinuxDaily com.redhat.imsettings: [ 1713334069.519905]: IMSettings-Daemon[2046]: INFO:   [XINPUTRCDIR=/etc/X11/xinit/]
+Apr 17 02:07:49 LinuxDaily com.redhat.imsettings: [ 1713334069.519941]: IMSettings-Daemon[2046]: INFO:   [XINPUTDIR=/etc/X11/xinit/xinput.d/]
+Apr 17 02:07:49 LinuxDaily com.redhat.imsettings: [ 1713334069.519976]: IMSettings-Daemon[2046]: INFO:   [MODULEDIR=/usr/lib64/imsettings]
+Apr 17 02:07:49 LinuxDaily com.redhat.imsettings: [ 1713334069.520015]: IMSettings-Daemon[2046]: INFO:   [MODULES=gsettings]
+Apr 17 02:07:50 LinuxDaily org.a11y.Bus: Activating service name='org.a11y.atspi.Registry'
+Apr 17 02:07:50 LinuxDaily org.a11y.Bus: Successfully activated service 'org.a11y.atspi.Registry'
+Apr 17 02:07:50 LinuxDaily org.a11y.atspi.Registry: SpiRegistry daemon is running with well-known name - org.a11y.atspi.Registry
+Apr 17 02:07:50 LinuxDaily gnome-session: generating cookie with syscall
+Apr 17 02:07:50 LinuxDaily gnome-session: generating cookie with syscall
+Apr 17 02:07:50 LinuxDaily gnome-session: generating cookie with syscall
+Apr 17 02:07:50 LinuxDaily gnome-session: generating cookie with syscall
+Apr 17 02:07:50 LinuxDaily gnome-keyring-ssh.desktop: SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+Apr 17 02:07:50 LinuxDaily gnome-keyring-secrets.desktop: SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+Apr 17 02:07:50 LinuxDaily rtkit-daemon[814]: Successfully made thread 2213 of process 2213 (/usr/bin/pulseaudio) owned by '1000' high priority at nice level -11.
+Apr 17 02:07:50 LinuxDaily dbus[833]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service'
+Apr 17 02:07:51 LinuxDaily dbus[833]: [system] Activating via systemd: service name='org.freedesktop.GeoClue2' unit='geoclue.service'
+Apr 17 02:07:51 LinuxDaily systemd: Starting Location Lookup Service...
+Apr 17 02:07:51 LinuxDaily dbus[833]: [system] Successfully activated service 'org.freedesktop.GeoClue2'
+Apr 17 02:07:51 LinuxDaily systemd: Started Location Lookup Service.
+Apr 17 02:07:51 LinuxDaily NetworkManager[986]: <info>  [1713334071.6331] agent-manager: req[0x563f3b2d96e0, :1.833/org.gnome.Shell.NetworkAgent/1000]: agent registered
+Apr 17 02:07:51 LinuxDaily journal: goa-daemon version 3.28.2 starting
+Apr 17 02:07:51 LinuxDaily org.gtk.vfs.AfcVolumeMonitor: Volume monitor alive
+Apr 17 02:07:51 LinuxDaily journal: GoaKerberosIdentityManager: Using polling for change notification for credential cache type 'KEYRING'
+Apr 17 02:07:52 LinuxDaily journal: Loading NVML: libnvidia-ml.so: cannot open shared object file: No such file or directory
+Apr 17 02:07:52 LinuxDaily spice-vdagent[2473]: Cannot access vdagent virtio channel /dev/virtio-ports/com.redhat.spice.0
+Apr 17 02:07:52 LinuxDaily gnome-session-binary[1998]: WARNING: App 'spice-vdagent.desktop' exited with code 1
+Apr 17 02:07:52 LinuxDaily gnome-session: gnome-session-binary[1998]: WARNING: App 'spice-vdagent.desktop' exited with code 1
+Apr 17 02:07:53 LinuxDaily spice-streaming-agent[2513]: Failed to open the streaming device "/dev/virtio-ports/org.spice-space.stream.0": 2 - No such file or directory
+Apr 17 02:07:53 LinuxDaily journal: failed to get edid: unable to get EDID for output
+Apr 17 02:07:53 LinuxDaily vmware-user.desktop: vmware-user: could not open /proc/fs/vmblock/dev
+Apr 17 02:07:53 LinuxDaily com.redhat.imsettings: No such schema “org.gnome.settings-daemon.plugins.keyboard”
+Apr 17 02:07:53 LinuxDaily imsettings-start.desktop: Current desktop isn't supported by IMSettings. Please follow instructions on your desktop to enable Input Method.
+Apr 17 02:07:53 LinuxDaily gnome-session-binary: Entering running state
+Apr 17 02:07:53 LinuxDaily tracker-store.desktop: (uint32 1,)
+Apr 17 02:07:53 LinuxDaily gnome-shell: GNOME Shell started at Wed Apr 17 2024 02:07:52 GMT-0400 (EDT)
+Apr 17 02:07:53 LinuxDaily journal: gtk_disable_setlocale() must be called before gtk_init()
+Apr 17 02:07:54 LinuxDaily journal: plugin flatpak took 1.1 seconds to do initialize
+Apr 17 02:07:54 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 17 02:07:54 LinuxDaily journal: Mounted /dev/sr0 at /run/media/admin/CentOS 7 x86_64 on behalf of uid 1000
+Apr 17 02:07:55 LinuxDaily gnome-welcome-tour.desktop: failed to create drawable
+Apr 17 02:07:55 LinuxDaily journal: not GsPlugin error from plugin repos g-key-file-error-quark:1: Key file contains line “        file:///media/cdrom/” which is not a key-value pair, group, or comment
+Apr 17 02:07:55 LinuxDaily journal: enabled plugins: desktop-categories, fwupd, os-release, packagekit-local, packagekit-offline, packagekit-proxy, packagekit-refresh, packagekit-upgrade, packagekit-url-to-app, packagekit, shell-extensions, systemd-updates, appstream, desktop-menu-path, flatpak, generic-updates, hardcoded-blacklist, hardcoded-featured, hardcoded-popular, modalias, packagekit-refine, rewrite-resource, steam, icons, odrs, packagekit-history, provenance, key-colors, packagekit-refine-repos, provenance-license, key-colors-metadata
+Apr 17 02:07:55 LinuxDaily journal: disabled plugins: dpkg, dummy, fedora-pkgdb-collections, epiphany, repos
+Apr 17 02:07:55 LinuxDaily dbus[833]: [system] Activating via systemd: service name='org.freedesktop.fwupd' unit='fwupd.service'
+Apr 17 02:07:55 LinuxDaily systemd: Starting Firmware update daemon...
+Apr 17 02:07:56 LinuxDaily journal: disabling plugin because: failed to startup dell: Firmware updating not supported
+Apr 17 02:07:56 LinuxDaily journal: disabling plugin because: failed to startup uefi: UEFI firmware updating not supported
+Apr 17 02:07:56 LinuxDaily journal: disabling plugin because: failed to coldplug amt: Unable to find a ME interface
+Apr 17 02:07:56 LinuxDaily journal: disabling plugin because: failed to coldplug synapticsmst: MST firmware updating not supported by OEM
+Apr 17 02:07:56 LinuxDaily journal: disabling plugin because: failed to coldplug thunderbolt_power: missing kernel support for intel-wmi-thunderbolt
+Apr 17 02:07:56 LinuxDaily journal: using plugins: altos, colorhug, csr, dfu, ebitdo, nitrokey, steelseries, thunderbolt, udev, unifying, upower, wacomhid
+Apr 17 02:07:56 LinuxDaily journal: Daemon ready for requests
+Apr 17 02:07:56 LinuxDaily dbus[833]: [system] Successfully activated service 'org.freedesktop.fwupd'
+Apr 17 02:07:56 LinuxDaily systemd: Started Firmware update daemon.
+Apr 17 02:07:56 LinuxDaily journal: Exiting
+Apr 17 02:07:57 LinuxDaily kernel: TCP: lp registered
+Apr 17 02:07:58 LinuxDaily journal: failed to call gs_plugin_refresh on shell-extensions: [*/*/*/source/shell-extensions/*] failed to download https://extensions.gnome.org//static/extensions.json: Cannot resolve hostname
+Apr 17 02:07:58 LinuxDaily journal: window-list@gnome-shell-extensions.gcampax.github.com unknown type 3
+Apr 17 02:07:58 LinuxDaily journal: launch-new-instance@gnome-shell-extensions.gcampax.github.com unknown type 3
+Apr 17 02:07:58 LinuxDaily journal: apps-menu@gnome-shell-extensions.gcampax.github.com unknown type 3
+Apr 17 02:07:58 LinuxDaily journal: top-icons@gnome-shell-extensions.gcampax.github.com unknown type 3
+Apr 17 02:07:58 LinuxDaily journal: places-menu@gnome-shell-extensions.gcampax.github.com unknown type 3
+Apr 17 02:07:58 LinuxDaily journal: alternate-tab@gnome-shell-extensions.gcampax.github.com unknown type 3
+Apr 17 02:07:58 LinuxDaily journal: horizontal-workspaces@gnome-shell-extensions.gcampax.github.com unknown type 3
+Apr 17 02:07:58 LinuxDaily journal: Only 0 apps for recent list, hiding
+Apr 17 02:07:58 LinuxDaily journal: hiding category games featured applications: found only 0 to show, need at least 9
+Apr 17 02:07:58 LinuxDaily journal: hiding category audio-video featured applications: found only 0 to show, need at least 9
+Apr 17 02:07:58 LinuxDaily journal: Only 5 apps for popular list, hiding
+Apr 17 02:08:09 LinuxDaily systemd-logind: Removed session c1.
+Apr 17 02:08:09 LinuxDaily systemd: Removed slice User Slice of gdm.
+Apr 17 02:08:15 LinuxDaily dbus[833]: [system] Failed to activate service 'org.bluez': timed out
+Apr 17 02:08:15 LinuxDaily pulseaudio[2213]: [pulseaudio] bluez5-util.c: GetManagedObjects() failed: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+Apr 17 02:10:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 17 02:10:01 LinuxDaily systemd: Started Session 355 of user root.
+Apr 17 02:10:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 17 02:20:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 17 02:20:01 LinuxDaily systemd: Started Session 356 of user root.
+Apr 17 02:20:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 17 02:30:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 17 02:30:01 LinuxDaily systemd: Started Session 357 of user root.
+Apr 17 02:30:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 17 02:40:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 17 02:40:01 LinuxDaily systemd: Started Session 358 of user root.
+Apr 17 02:40:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 17 02:50:02 LinuxDaily systemd: Created slice User Slice of root.
+Apr 17 02:50:02 LinuxDaily systemd: Started Session 359 of user root.
+Apr 17 02:50:02 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 17 03:00:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 17 03:00:01 LinuxDaily systemd: Started Session 360 of user root.
+Apr 17 03:00:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 17 03:01:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 17 03:01:01 LinuxDaily systemd: Started Session 361 of user root.
+Apr 17 03:10:01 LinuxDaily systemd: Started Session 362 of user root.
+Apr 17 03:20:01 LinuxDaily systemd: Started Session 363 of user root.
+Apr 17 03:28:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 17 03:30:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 17 03:30:01 LinuxDaily systemd: Started Session 364 of user root.
+Apr 17 03:30:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 17 03:40:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 17 03:40:01 LinuxDaily systemd: Started Session 365 of user root.
+Apr 17 03:40:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 17 03:50:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 17 03:50:01 LinuxDaily systemd: Started Session 366 of user root.
+Apr 17 03:50:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 17 04:00:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 17 04:00:02 LinuxDaily systemd: Started Session 367 of user root.
+Apr 17 04:00:02 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 17 04:01:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 17 04:01:01 LinuxDaily systemd: Started Session 368 of user root.
+Apr 17 04:01:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 17 04:10:01 LinuxDaily systemd: Created slice User Slice of root.
+Apr 17 04:10:01 LinuxDaily systemd: Started Session 369 of user root.
+Apr 17 04:10:01 LinuxDaily systemd: Removed slice User Slice of root.
+Apr 17 04:11:00 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 17 04:11:00 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 17 04:11:00 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 17 04:11:01 LinuxDaily dbus[833]: [system] Activating via systemd: service name='net.reactivated.Fprint' unit='fprintd.service'
+Apr 17 04:11:01 LinuxDaily systemd: Starting Fingerprint Authentication Daemon...
+Apr 17 04:11:01 LinuxDaily dbus[833]: [system] Successfully activated service 'net.reactivated.Fprint'
+Apr 17 04:11:01 LinuxDaily systemd: Started Fingerprint Authentication Daemon.
+Apr 17 04:11:02 LinuxDaily journal: g_dbus_proxy_call_finish_internal: assertion 'G_IS_DBUS_PROXY (proxy)' failed
+Apr 17 04:11:06 LinuxDaily systemd: Created slice User Slice of gdm.
+Apr 17 04:11:06 LinuxDaily systemd: Started Session c3 of user gdm.
+Apr 17 04:11:06 LinuxDaily systemd-logind: New session c3 of user gdm.
+Apr 17 04:11:06 LinuxDaily org.a11y.Bus: Activating service name='org.a11y.atspi.Registry'
+Apr 17 04:11:06 LinuxDaily org.a11y.Bus: Successfully activated service 'org.a11y.atspi.Registry'
+Apr 17 04:11:06 LinuxDaily org.a11y.atspi.Registry: SpiRegistry daemon is running with well-known name - org.a11y.atspi.Registry
+Apr 17 04:11:07 LinuxDaily gnome-session: generating cookie with syscall
+Apr 17 04:11:07 LinuxDaily gnome-session: generating cookie with syscall
+Apr 17 04:11:07 LinuxDaily gnome-session: generating cookie with syscall
+Apr 17 04:11:07 LinuxDaily gnome-session: generating cookie with syscall
+Apr 17 04:11:07 LinuxDaily rtkit-daemon[814]: Successfully made thread 4454 of process 4454 (/usr/bin/pulseaudio) owned by '42' high priority at nice level -11.
+Apr 17 04:11:08 LinuxDaily dbus[833]: [system] Activating via systemd: service name='org.freedesktop.locale1' unit='dbus-org.freedesktop.locale1.service'
+Apr 17 04:11:08 LinuxDaily systemd: Starting Locale Service...
+Apr 17 04:11:08 LinuxDaily dbus[833]: [system] Successfully activated service 'org.freedesktop.locale1'
+Apr 17 04:11:08 LinuxDaily systemd: Started Locale Service.
+Apr 17 04:11:08 LinuxDaily dbus[833]: [system] Activating via systemd: service name='org.freedesktop.GeoClue2' unit='geoclue.service'
+Apr 17 04:11:08 LinuxDaily systemd: Starting Location Lookup Service...
+Apr 17 04:11:08 LinuxDaily dbus[833]: [system] Successfully activated service 'org.freedesktop.GeoClue2'
+Apr 17 04:11:08 LinuxDaily systemd: Started Location Lookup Service.
+Apr 17 04:11:09 LinuxDaily dbus[833]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service'
+Apr 17 04:11:09 LinuxDaily systemd: Starting Hostname Service...
+Apr 17 04:11:09 LinuxDaily spice-vdagent[4583]: Cannot access vdagent virtio channel /dev/virtio-ports/com.redhat.spice.0
+Apr 17 04:11:09 LinuxDaily gnome-session-binary[4390]: WARNING: App 'spice-vdagent.desktop' exited with code 1
+Apr 17 04:11:09 LinuxDaily gnome-session: gnome-session-binary[4390]: WARNING: App 'spice-vdagent.desktop' exited with code 1
+Apr 17 04:11:09 LinuxDaily spice-streaming-agent[4588]: Failed to open the streaming device "/dev/virtio-ports/org.spice-space.stream.0": 2 - No such file or directory
+Apr 17 04:11:09 LinuxDaily gnome-session-binary: Entering running state
+Apr 17 04:11:09 LinuxDaily dbus[833]: [system] Activating via systemd: service name='org.freedesktop.realmd' unit='realmd.service'
+Apr 17 04:11:09 LinuxDaily systemd: Starting Realm and Domain Configuration...
+Apr 17 04:11:09 LinuxDaily dbus[833]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Apr 17 04:11:09 LinuxDaily systemd: Started Hostname Service.
+Apr 17 04:11:09 LinuxDaily dbus[833]: [system] Successfully activated service 'org.freedesktop.realmd'
+Apr 17 04:11:09 LinuxDaily systemd: Started Realm and Domain Configuration.
+Apr 17 04:11:09 LinuxDaily journal: failed to get edid: unable to get EDID for output
+Apr 17 04:11:09 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 17 04:11:09 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 17 04:11:18 LinuxDaily systemd: Created slice User Slice of root.
+Apr 17 04:11:18 LinuxDaily systemd: Started Session 370 of user root.
+Apr 17 04:11:19 LinuxDaily systemd-logind: New session 370 of user root.
+Apr 17 04:11:22 LinuxDaily gnome-session-binary[4390]: WARNING: Application 'org.gnome.SettingsDaemon.A11ySettings.desktop' killed by signal 15
+Apr 17 04:11:22 LinuxDaily gnome-session: gnome-session-binary[4390]: WARNING: Application 'org.gnome.SettingsDaemon.A11ySettings.desktop' killed by signal 15
+Apr 17 04:11:22 LinuxDaily gnome-session: gnome-session-binary[4390]: WARNING: Application 'org.gnome.SettingsDaemon.Clipboard.desktop' killed by signal 15
+Apr 17 04:11:22 LinuxDaily gnome-session: gnome-session-binary[4390]: WARNING: Application 'org.gnome.SettingsDaemon.Datetime.desktop' killed by signal 15
+Apr 17 04:11:22 LinuxDaily gnome-session: gnome-session-binary[4390]: WARNING: Application 'org.gnome.SettingsDaemon.Housekeeping.desktop' killed by signal 15
+Apr 17 04:11:22 LinuxDaily gnome-session: gnome-session-binary[4390]: WARNING: Application 'org.gnome.SettingsDaemon.Keyboard.desktop' killed by signal 15
+Apr 17 04:11:22 LinuxDaily gnome-session: gnome-session-binary[4390]: WARNING: Application 'org.gnome.SettingsDaemon.MediaKeys.desktop' killed by signal 15
+Apr 17 04:11:22 LinuxDaily gnome-session: gnome-session-binary[4390]: WARNING: Application 'org.gnome.SettingsDaemon.Mouse.desktop' killed by signal 15
+Apr 17 04:11:22 LinuxDaily gnome-session: gnome-session-binary[4390]: WARNING: Application 'org.gnome.SettingsDaemon.Power.desktop' killed by signal 15
+Apr 17 04:11:22 LinuxDaily gnome-session: gnome-session-binary[4390]: WARNING: Application 'org.gnome.SettingsDaemon.PrintNotifications.desktop' killed by signal 15
+Apr 17 04:11:22 LinuxDaily gnome-session: gnome-session-binary[4390]: WARNING: Application 'org.gnome.SettingsDaemon.Rfkill.desktop' killed by signal 15
+Apr 17 04:11:22 LinuxDaily gnome-session: gnome-session-binary[4390]: WARNING: Application 'org.gnome.SettingsDaemon.ScreensaverProxy.desktop' killed by signal 15
+Apr 17 04:11:22 LinuxDaily gnome-session: gnome-session-binary[4390]: WARNING: Application 'org.gnome.SettingsDaemon.Sharing.desktop' killed by signal 15
+Apr 17 04:11:22 LinuxDaily gnome-session: gnome-session-binary[4390]: WARNING: Application 'org.gnome.SettingsDaemon.Smartcard.desktop' killed by signal 15
+Apr 17 04:11:22 LinuxDaily gnome-session: gnome-session-binary[4390]: WARNING: Application 'org.gnome.SettingsDaemon.Wacom.desktop' killed by signal 15
+Apr 17 04:11:22 LinuxDaily gnome-session-binary[4390]: WARNING: Application 'org.gnome.SettingsDaemon.Clipboard.desktop' killed by signal 15
+Apr 17 04:11:22 LinuxDaily journal: Failed to send session response The connection is closed
+Apr 17 04:11:22 LinuxDaily gnome-session-binary[4390]: WARNING: Application 'org.gnome.SettingsDaemon.Datetime.desktop' killed by signal 15
+Apr 17 04:11:22 LinuxDaily gnome-session-binary[4390]: WARNING: Application 'org.gnome.SettingsDaemon.Housekeeping.desktop' killed by signal 15
+Apr 17 04:11:22 LinuxDaily gnome-session-binary[4390]: WARNING: Application 'org.gnome.SettingsDaemon.Keyboard.desktop' killed by signal 15
+Apr 17 04:11:22 LinuxDaily gnome-session-binary[4390]: WARNING: Application 'org.gnome.SettingsDaemon.MediaKeys.desktop' killed by signal 15
+Apr 17 04:11:22 LinuxDaily gnome-session-binary[4390]: WARNING: Application 'org.gnome.SettingsDaemon.Mouse.desktop' killed by signal 15
+Apr 17 04:11:22 LinuxDaily gnome-session-binary[4390]: WARNING: Application 'org.gnome.SettingsDaemon.Power.desktop' killed by signal 15
+Apr 17 04:11:22 LinuxDaily gnome-session-binary[4390]: WARNING: Application 'org.gnome.SettingsDaemon.PrintNotifications.desktop' killed by signal 15
+Apr 17 04:11:22 LinuxDaily gnome-session-binary[4390]: WARNING: Application 'org.gnome.SettingsDaemon.Rfkill.desktop' killed by signal 15
+Apr 17 04:11:22 LinuxDaily gnome-session-binary[4390]: WARNING: Application 'org.gnome.SettingsDaemon.ScreensaverProxy.desktop' killed by signal 15
+Apr 17 04:11:22 LinuxDaily gnome-session-binary[4390]: WARNING: Application 'org.gnome.SettingsDaemon.Sharing.desktop' killed by signal 15
+Apr 17 04:11:22 LinuxDaily gnome-session-binary[4390]: WARNING: Application 'org.gnome.SettingsDaemon.Smartcard.desktop' killed by signal 15
+Apr 17 04:11:22 LinuxDaily gnome-session-binary[4390]: WARNING: Application 'org.gnome.SettingsDaemon.Wacom.desktop' killed by signal 15
+Apr 17 04:11:22 LinuxDaily com.redhat.imsettings: [ 1713341482.914948]: IMSettings-Daemon[4723]: INFO: Starting imsettings-daemon...
+Apr 17 04:11:22 LinuxDaily com.redhat.imsettings: [ 1713341482.915643]: IMSettings-Daemon[4723]: INFO:   [HOME=/root/.config/imsettings]
+Apr 17 04:11:22 LinuxDaily com.redhat.imsettings: [ 1713341482.915696]: IMSettings-Daemon[4723]: INFO:   [XINPUTRCDIR=/etc/X11/xinit/]
+Apr 17 04:11:22 LinuxDaily com.redhat.imsettings: [ 1713341482.915731]: IMSettings-Daemon[4723]: INFO:   [XINPUTDIR=/etc/X11/xinit/xinput.d/]
+Apr 17 04:11:22 LinuxDaily com.redhat.imsettings: [ 1713341482.915766]: IMSettings-Daemon[4723]: INFO:   [MODULEDIR=/usr/lib64/imsettings]
+Apr 17 04:11:22 LinuxDaily com.redhat.imsettings: [ 1713341482.915804]: IMSettings-Daemon[4723]: INFO:   [MODULES=gsettings]
+Apr 17 04:11:23 LinuxDaily org.a11y.Bus: Activating service name='org.a11y.atspi.Registry'
+Apr 17 04:11:23 LinuxDaily org.a11y.Bus: Successfully activated service 'org.a11y.atspi.Registry'
+Apr 17 04:11:23 LinuxDaily org.a11y.atspi.Registry: SpiRegistry daemon is running with well-known name - org.a11y.atspi.Registry
+Apr 17 04:11:23 LinuxDaily gnome-session: generating cookie with syscall
+Apr 17 04:11:23 LinuxDaily gnome-session: generating cookie with syscall
+Apr 17 04:11:23 LinuxDaily gnome-session: generating cookie with syscall
+Apr 17 04:11:23 LinuxDaily gnome-session: generating cookie with syscall
+Apr 17 04:11:23 LinuxDaily gnome-keyring-ssh.desktop: SSH_AUTH_SOCK=/run/user/0/keyring/ssh
+Apr 17 04:11:23 LinuxDaily gnome-keyring-secrets.desktop: SSH_AUTH_SOCK=/run/user/0/keyring/ssh
+Apr 17 04:11:25 LinuxDaily journal: goa-daemon version 3.28.2 starting
+Apr 17 04:11:25 LinuxDaily dbus[833]: [system] Activating via systemd: service name='org.freedesktop.GeoClue2' unit='geoclue.service'
+Apr 17 04:11:25 LinuxDaily systemd: Starting Location Lookup Service...
+Apr 17 04:11:25 LinuxDaily NetworkManager[986]: <info>  [1713341485.4085] agent-manager: req[0x563f3b2d96e0, :1.943/org.gnome.Shell.NetworkAgent/0]: agent registered
+Apr 17 04:11:25 LinuxDaily dbus[833]: [system] Successfully activated service 'org.freedesktop.GeoClue2'
+Apr 17 04:11:25 LinuxDaily systemd: Started Location Lookup Service.
+Apr 17 04:11:25 LinuxDaily dbus[833]: [system] Activating service name='org.fedoraproject.Setroubleshootd' (using servicehelper)
+Apr 17 04:11:25 LinuxDaily journal: GoaKerberosIdentityManager: Using polling for change notification for credential cache type 'KEYRING'
+Apr 17 04:11:25 LinuxDaily org.gtk.vfs.AfcVolumeMonitor: Volume monitor alive
+Apr 17 04:11:25 LinuxDaily pulseaudio.desktop: W: [pulseaudio] main.c: This program is not intended to be run as root (unless --system is specified).
+Apr 17 04:11:25 LinuxDaily pulseaudio: Failed to open cookie file '/root/.config/pulse/cookie': No such file or directory
+Apr 17 04:11:25 LinuxDaily pulseaudio: Failed to load authentication key '/root/.config/pulse/cookie': No such file or directory
+Apr 17 04:11:25 LinuxDaily pulseaudio: Failed to open cookie file '/root/.pulse-cookie': No such file or directory
+Apr 17 04:11:25 LinuxDaily pulseaudio: Failed to load authentication key '/root/.pulse-cookie': No such file or directory
+Apr 17 04:11:25 LinuxDaily dbus[833]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service'
+Apr 17 04:11:26 LinuxDaily journal: Loading NVML: libnvidia-ml.so: cannot open shared object file: No such file or directory
+Apr 17 04:11:26 LinuxDaily spice-vdagent[5111]: Cannot access vdagent virtio channel /dev/virtio-ports/com.redhat.spice.0
+Apr 17 04:11:26 LinuxDaily gnome-session: gnome-session-binary[4676]: WARNING: App 'spice-vdagent.desktop' exited with code 1
+Apr 17 04:11:26 LinuxDaily gnome-session-binary[4676]: WARNING: App 'spice-vdagent.desktop' exited with code 1
+Apr 17 04:11:26 LinuxDaily dbus[833]: [system] Successfully activated service 'org.fedoraproject.Setroubleshootd'
+Apr 17 04:11:26 LinuxDaily journal: failed to get edid: unable to get EDID for output
+Apr 17 04:11:26 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 17 04:11:26 LinuxDaily spice-streaming-agent[5146]: Failed to open the streaming device "/dev/virtio-ports/org.spice-space.stream.0": 2 - No such file or directory
+Apr 17 04:11:26 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 17 04:11:26 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 17 04:11:27 LinuxDaily tracker-store.desktop: (uint32 1,)
+Apr 17 04:11:27 LinuxDaily setroubleshoot: SELinux is preventing /usr/libexec/gdm-session-worker from create access on the directory gdm. For complete SELinux messages run: sealert -l 22b9a5bb-a83b-47e1-8904-0cc8a6e45fe8
+Apr 17 04:11:27 LinuxDaily vmware-user.desktop: vmware-user: could not open /proc/fs/vmblock/dev
+Apr 17 04:11:27 LinuxDaily gnome-session-binary: Entering running state
+Apr 17 04:11:27 LinuxDaily python: SELinux is preventing /usr/libexec/gdm-session-worker from create access on the directory gdm.#012#012*****  Plugin catchall_boolean (89.3 confidence) suggests   ******************#012#012If you want to allow polyinstantiation to enabled#012Then you must tell SELinux about this by enabling the 'polyinstantiation_enabled' boolean.#012#012Do#012setsebool -P polyinstantiation_enabled 1#012#012*****  Plugin catchall (11.6 confidence) suggests   **************************#012#012If you believe that gdm-session-worker should be allowed create access on the gdm directory by default.#012Then you should report this as a bug.#012You can generate a local policy module to allow this access.#012Do#012allow this access for now by executing:#012# ausearch -c 'gdm-session-wor' --raw | audit2allow -M my-gdmsessionwor#012# semodule -i my-gdmsessionwor.pp#012
+Apr 17 04:11:27 LinuxDaily com.redhat.imsettings: No such schema “org.gnome.settings-daemon.plugins.keyboard”
+Apr 17 04:11:27 LinuxDaily imsettings-start.desktop: Current desktop isn't supported by IMSettings. Please follow instructions on your desktop to enable Input Method.
+Apr 17 04:11:27 LinuxDaily journal: gtk_disable_setlocale() must be called before gtk_init()
+Apr 17 04:11:27 LinuxDaily gnome-shell: GNOME Shell started at Wed Apr 17 2024 04:11:25 GMT-0400 (EDT)
+Apr 17 04:11:27 LinuxDaily journal: not GsPlugin error from plugin repos g-key-file-error-quark:1: Key file contains line “        file:///media/cdrom/” which is not a key-value pair, group, or comment
+Apr 17 04:11:27 LinuxDaily journal: enabled plugins: desktop-categories, fwupd, os-release, packagekit-local, packagekit-offline, packagekit-proxy, packagekit-refresh, packagekit-upgrade, packagekit-url-to-app, packagekit, shell-extensions, systemd-updates, appstream, desktop-menu-path, flatpak, generic-updates, hardcoded-blacklist, hardcoded-featured, hardcoded-popular, modalias, packagekit-refine, rewrite-resource, steam, icons, odrs, packagekit-history, provenance, key-colors, packagekit-refine-repos, provenance-license, key-colors-metadata
+Apr 17 04:11:27 LinuxDaily journal: disabled plugins: dpkg, dummy, fedora-pkgdb-collections, epiphany, repos
+Apr 17 04:11:30 LinuxDaily journal: Exiting
+Apr 17 04:11:32 LinuxDaily journal: failed to call gs_plugin_refresh on shell-extensions: [*/*/*/source/shell-extensions/*] failed to download https://extensions.gnome.org//static/extensions.json: Cannot resolve hostname
+Apr 17 04:11:32 LinuxDaily journal: failed to call gs_plugin_refresh on odrs: [*/*/*/source/odrs/*] failed to download https://odrs.gnome.org/1.0/reviews/api/ratings: Cannot resolve hostname
+Apr 17 04:11:32 LinuxDaily journal: window-list@gnome-shell-extensions.gcampax.github.com unknown type 3
+Apr 17 04:11:32 LinuxDaily journal: launch-new-instance@gnome-shell-extensions.gcampax.github.com unknown type 3
+Apr 17 04:11:32 LinuxDaily journal: apps-menu@gnome-shell-extensions.gcampax.github.com unknown type 3
+Apr 17 04:11:32 LinuxDaily journal: top-icons@gnome-shell-extensions.gcampax.github.com unknown type 3
+Apr 17 04:11:32 LinuxDaily journal: places-menu@gnome-shell-extensions.gcampax.github.com unknown type 3
+Apr 17 04:11:32 LinuxDaily journal: alternate-tab@gnome-shell-extensions.gcampax.github.com unknown type 3
+Apr 17 04:11:32 LinuxDaily journal: horizontal-workspaces@gnome-shell-extensions.gcampax.github.com unknown type 3
+Apr 17 04:11:32 LinuxDaily journal: Only 0 apps for recent list, hiding
+Apr 17 04:11:32 LinuxDaily journal: hiding category audio-video featured applications: found only 0 to show, need at least 9
+Apr 17 04:11:32 LinuxDaily journal: hiding category games featured applications: found only 0 to show, need at least 9
+Apr 17 04:11:33 LinuxDaily org.gnome.Shell.desktop: Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2a00015 (gnome-init)
+Apr 17 04:11:36 LinuxDaily journal: Only 5 apps for popular list, hiding
+Apr 17 04:11:37 LinuxDaily dbus[833]: [system] Activating service name='org.freedesktop.problems' (using servicehelper)
+Apr 17 04:11:37 LinuxDaily dbus[833]: [system] Successfully activated service 'org.freedesktop.problems'
+Apr 17 04:11:42 LinuxDaily systemd-logind: Removed session c3.
+Apr 17 04:11:42 LinuxDaily systemd: Removed slice User Slice of gdm.
+Apr 17 04:11:50 LinuxDaily pulseaudio: GetManagedObjects() failed: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+Apr 17 04:11:50 LinuxDaily dbus[833]: [system] Failed to activate service 'org.bluez': timed out
+Apr 17 04:14:22 LinuxDaily systemd: Stopping LSB: Bring up/down networking...
+Apr 17 04:14:22 LinuxDaily NetworkManager[986]: <info>  [1713341662.3632] ifcfg-rh: update /etc/sysconfig/network-scripts/ifcfg-ens160 (be1d572f-294a-473c-a41a-3e09ecd95f20,"ens160")
+Apr 17 04:14:22 LinuxDaily NetworkManager[986]: <info>  [1713341662.5332] device (ens160): state change: activated -> deactivating (reason 'user-requested', sys-iface-state: 'managed')
+Apr 17 04:14:22 LinuxDaily NetworkManager[986]: <info>  [1713341662.5579] audit: op="device-disconnect" interface="ens160" ifindex=2 pid=5616 uid=0 result="success"
+Apr 17 04:14:22 LinuxDaily NetworkManager[986]: <info>  [1713341662.5585] device (ens160): state change: deactivating -> disconnected (reason 'user-requested', sys-iface-state: 'managed')
+Apr 17 04:14:22 LinuxDaily avahi-daemon[805]: Withdrawing address record for fe80::250:56ff:fea6:f341 on ens160.
+Apr 17 04:14:22 LinuxDaily network: Shutting down interface ens160:  Device 'ens160' successfully disconnected.
+Apr 17 04:14:22 LinuxDaily dbus[833]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Apr 17 04:14:22 LinuxDaily network: [  OK  ]
+Apr 17 04:14:22 LinuxDaily systemd: Starting Network Manager Script Dispatcher Service...
+Apr 17 04:14:22 LinuxDaily dbus[833]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Apr 17 04:14:22 LinuxDaily systemd: Started Network Manager Script Dispatcher Service.
+Apr 17 04:14:22 LinuxDaily nm-dispatcher: req:1 'down' [ens160]: new request (4 scripts)
+Apr 17 04:14:22 LinuxDaily nm-dispatcher: req:1 'down' [ens160]: start running ordered scripts...
+Apr 17 04:14:22 LinuxDaily network: Shutting down loopback interface:  [  OK  ]
+Apr 17 04:14:23 LinuxDaily systemd: Stopped LSB: Bring up/down networking.
+Apr 17 04:14:23 LinuxDaily systemd: Starting LSB: Bring up/down networking...
+Apr 17 04:14:23 LinuxDaily NetworkManager[986]: <info>  [1713341663.4230] device (lo): carrier: link connected
+Apr 17 04:14:23 LinuxDaily NET[5851]: /etc/sysconfig/network-scripts/ifup-post : updated /etc/resolv.conf
+Apr 17 04:14:23 LinuxDaily network: Bringing up loopback interface:  [  OK  ]
+Apr 17 04:14:23 LinuxDaily NetworkManager[986]: <info>  [1713341663.8024] agent-manager: req[0x563f3b2d2960, :1.1026/nmcli-connect/0]: agent registered
+Apr 17 04:14:23 LinuxDaily NetworkManager[986]: <info>  [1713341663.8063] device (ens160): Activation: starting connection 'ens160' (be1d572f-294a-473c-a41a-3e09ecd95f20)
+Apr 17 04:14:23 LinuxDaily NetworkManager[986]: <info>  [1713341663.8065] audit: op="connection-activate" uuid="be1d572f-294a-473c-a41a-3e09ecd95f20" name="ens160" pid=5874 uid=0 result="success"
+Apr 17 04:14:23 LinuxDaily NetworkManager[986]: <info>  [1713341663.8066] device (ens160): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+Apr 17 04:14:23 LinuxDaily NetworkManager[986]: <info>  [1713341663.8072] manager: NetworkManager state is now CONNECTING
+Apr 17 04:14:23 LinuxDaily NetworkManager[986]: <info>  [1713341663.8074] device (ens160): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+Apr 17 04:14:23 LinuxDaily NetworkManager[986]: <info>  [1713341663.8975] device (ens160): state change: config -> ip-config (reason 'none', sys-iface-state: 'managed')
+Apr 17 04:14:23 LinuxDaily NetworkManager[986]: <info>  [1713341663.9011] device (ens160): state change: ip-config -> ip-check (reason 'none', sys-iface-state: 'managed')
+Apr 17 04:14:23 LinuxDaily NetworkManager[986]: <info>  [1713341663.9034] device (ens160): state change: ip-check -> secondaries (reason 'none', sys-iface-state: 'managed')
+Apr 17 04:14:23 LinuxDaily NetworkManager[986]: <info>  [1713341663.9038] device (ens160): state change: secondaries -> activated (reason 'none', sys-iface-state: 'managed')
+Apr 17 04:14:23 LinuxDaily NetworkManager[986]: <info>  [1713341663.9059] manager: NetworkManager state is now CONNECTED_LOCAL
+Apr 17 04:14:23 LinuxDaily avahi-daemon[805]: Joining mDNS multicast group on interface ens160.IPv4 with address 192.168.1.118.
+Apr 17 04:14:23 LinuxDaily avahi-daemon[805]: New relevant interface ens160.IPv4 for mDNS.
+Apr 17 04:14:23 LinuxDaily avahi-daemon[805]: Registering new address record for 192.168.1.118 on ens160.IPv4.
+Apr 17 04:14:23 LinuxDaily NetworkManager[986]: <info>  [1713341663.9430] manager: NetworkManager state is now CONNECTED_SITE
+Apr 17 04:14:23 LinuxDaily NetworkManager[986]: <info>  [1713341663.9432] policy: set 'ens160' (ens160) as default for IPv4 routing and DNS
+Apr 17 04:14:23 LinuxDaily NetworkManager[986]: <info>  [1713341663.9666] device (ens160): Activation: successful, device activated.
+Apr 17 04:14:23 LinuxDaily NetworkManager[986]: <info>  [1713341663.9675] manager: NetworkManager state is now CONNECTED_GLOBAL
+Apr 17 04:14:23 LinuxDaily dnsmasq[2146]: reading /etc/resolv.conf
+Apr 17 04:14:23 LinuxDaily dnsmasq[2146]: using nameserver 8.8.8.8#53
+Apr 17 04:14:23 LinuxDaily network: Bringing up interface ens160:  Connection successfully activated (D-Bus active path: /org/freedesktop/NetworkManager/ActiveConnection/5)
+Apr 17 04:14:24 LinuxDaily nm-dispatcher: req:2 'up' [ens160]: new request (4 scripts)
+Apr 17 04:14:24 LinuxDaily nm-dispatcher: req:2 'up' [ens160]: start running ordered scripts...
+Apr 17 04:14:24 LinuxDaily nm-dispatcher: req:3 'connectivity-change': new request (4 scripts)
+Apr 17 04:14:24 LinuxDaily network: [  OK  ]
+Apr 17 04:14:24 LinuxDaily systemd: Unit iscsi.service cannot be reloaded because it is inactive.
+Apr 17 04:14:24 LinuxDaily systemd: Started LSB: Bring up/down networking.
+Apr 17 04:14:24 LinuxDaily nm-dispatcher: req:3 'connectivity-change': start running ordered scripts...
+Apr 17 04:14:25 LinuxDaily avahi-daemon[805]: Registering new address record for fe80::250:56ff:fea6:f341 on ens160.*.
+Apr 17 04:14:54 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 17 04:14:54 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 17 04:14:54 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 17 04:20:01 LinuxDaily systemd: Started Session 371 of user root.
+Apr 17 04:20:08 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 17 04:20:08 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 17 04:20:08 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 17 04:20:18 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 17 04:20:18 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 17 04:20:18 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 17 04:20:20 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 17 04:20:20 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 17 04:20:20 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 17 04:20:20 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 17 04:20:20 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 17 04:20:20 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 17 04:21:35 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 17 04:21:35 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 17 04:21:35 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 17 04:21:36 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 17 04:21:36 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 17 04:21:36 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 17 04:22:42 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 17 04:22:42 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 17 04:22:42 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 17 04:23:25 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 17 04:23:25 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 17 04:23:25 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 17 04:24:41 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 17 04:24:41 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 17 04:24:42 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 17 04:24:46 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 17 04:24:46 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 17 04:24:46 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 17 04:25:29 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 17 04:25:29 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 17 04:25:30 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 17 04:25:30 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 17 04:25:30 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 17 04:25:30 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 17 04:28:03 LinuxDaily systemd-logind: New session 372 of user root.
+Apr 17 04:28:03 LinuxDaily systemd: Started Session 372 of user root.
+Apr 17 04:28:03 LinuxDaily dbus[833]: [system] Activating service name='org.freedesktop.problems' (using servicehelper)
+Apr 17 04:28:03 LinuxDaily dbus[833]: [system] Successfully activated service 'org.freedesktop.problems'
+Apr 17 04:29:27 LinuxDaily yum[6238]: Installed: 1:perl-Error-0.17020-2.el7.noarch
+Apr 17 04:29:27 LinuxDaily yum[6238]: Installed: perl-TermReadKey-2.30-20.el7.x86_64
+Apr 17 04:29:29 LinuxDaily yum[6238]: Installed: git-1.8.3.1-25.el7_9.x86_64
+Apr 17 04:29:29 LinuxDaily yum[6238]: Installed: perl-Git-1.8.3.1-25.el7_9.noarch
+Apr 17 04:30:01 LinuxDaily systemd: Started Session 373 of user root.
+Apr 17 04:31:34 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 17 04:31:34 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 17 04:31:34 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 17 04:31:35 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 17 04:31:35 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 17 04:31:35 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 17 04:37:40 LinuxDaily journal: clutter_actor_iter_next: assertion 'ri->age == ri->root->priv->age' failed
+Apr 17 04:40:01 LinuxDaily systemd: Started Session 374 of user root.
+Apr 17 04:50:01 LinuxDaily systemd: Started Session 375 of user root.
+Apr 17 05:00:02 LinuxDaily systemd: Started Session 376 of user root.
+Apr 17 05:01:01 LinuxDaily systemd: Started Session 377 of user root.
+Apr 17 05:05:56 LinuxDaily systemd-logind: Removed session 372.
+Apr 17 05:06:13 LinuxDaily systemd-logind: New session 378 of user root.
+Apr 17 05:06:14 LinuxDaily systemd: Started Session 378 of user root.
+Apr 17 05:06:14 LinuxDaily dbus[833]: [system] Activating service name='org.freedesktop.problems' (using servicehelper)
+Apr 17 05:06:14 LinuxDaily dbus[833]: [system] Successfully activated service 'org.freedesktop.problems'
+Apr 17 05:10:01 LinuxDaily systemd: Started Session 379 of user root.
+Apr 17 05:20:01 LinuxDaily systemd: Started Session 380 of user root.
+Apr 17 05:30:01 LinuxDaily systemd: Started Session 381 of user root.
+Apr 17 05:40:01 LinuxDaily systemd: Started Session 382 of user root.
+Apr 17 05:50:01 LinuxDaily systemd: Started Session 383 of user root.
+Apr 17 06:00:02 LinuxDaily systemd: Started Session 384 of user root.
+Apr 17 06:01:01 LinuxDaily systemd: Started Session 385 of user root.
+Apr 17 06:03:01 LinuxDaily systemd-logind: Removed session 378.
+Apr 17 06:08:59 LinuxDaily journal: shell-extensions did not set error for gs_plugin_refresh
+Apr 17 06:10:01 LinuxDaily systemd: Started Session 386 of user root.
+Apr 17 06:12:33 LinuxDaily gnome-welcome-tour.desktop: Memory pressure relief: Total: res = 110505984/107757568/-2748416, res+swap = 104808448/104808448/0
+Apr 17 06:12:38 LinuxDaily journal: shell-extensions did not set error for gs_plugin_refresh
+Apr 17 06:20:01 LinuxDaily systemd: Started Session 387 of user root.
+Apr 17 06:30:01 LinuxDaily systemd: Started Session 388 of user root.
+Apr 17 06:40:01 LinuxDaily systemd: Started Session 389 of user root.
+Apr 17 06:50:02 LinuxDaily systemd: Started Session 390 of user root.
+Apr 17 07:00:01 LinuxDaily systemd: Started Session 391 of user root.
+Apr 17 07:01:01 LinuxDaily systemd: Started Session 392 of user root.
+Apr 17 07:10:01 LinuxDaily systemd: Started Session 393 of user root.
+Apr 17 07:20:01 LinuxDaily systemd: Started Session 394 of user root.
+Apr 17 07:30:01 LinuxDaily systemd: Started Session 395 of user root.
+Apr 17 07:40:01 LinuxDaily systemd: Started Session 396 of user root.
+Apr 17 07:50:01 LinuxDaily systemd: Started Session 397 of user root.
+Apr 17 08:00:02 LinuxDaily systemd: Started Session 398 of user root.
+Apr 17 08:01:01 LinuxDaily systemd: Started Session 399 of user root.
+Apr 17 08:10:01 LinuxDaily systemd: Started Session 400 of user root.
+Apr 17 08:20:01 LinuxDaily systemd: Started Session 401 of user root.
+Apr 17 08:30:01 LinuxDaily systemd: Started Session 402 of user root.
+Apr 17 08:40:01 LinuxDaily systemd: Started Session 403 of user root.
+Apr 17 08:50:01 LinuxDaily systemd: Started Session 404 of user root.
+Apr 17 09:00:01 LinuxDaily systemd: Started Session 405 of user root.
+Apr 17 09:01:01 LinuxDaily systemd: Started Session 406 of user root.
+Apr 17 09:10:01 LinuxDaily systemd: Started Session 407 of user root.
+Apr 17 09:20:01 LinuxDaily systemd: Started Session 408 of user root.
+Apr 17 09:30:01 LinuxDaily systemd: Started Session 409 of user root.
+Apr 17 09:40:01 LinuxDaily systemd: Started Session 410 of user root.
+Apr 17 09:50:01 LinuxDaily systemd: Started Session 411 of user root.
+Apr 17 10:00:01 LinuxDaily systemd: Started Session 412 of user root.
+Apr 17 10:01:01 LinuxDaily systemd: Started Session 413 of user root.
+Apr 17 10:10:02 LinuxDaily systemd: Started Session 414 of user root.
+Apr 17 10:20:01 LinuxDaily systemd: Started Session 415 of user root.
+Apr 17 10:30:01 LinuxDaily systemd: Started Session 416 of user root.
+Apr 17 10:40:01 LinuxDaily systemd: Started Session 417 of user root.
+Apr 17 10:50:01 LinuxDaily systemd: Started Session 418 of user root.
+Apr 17 11:00:01 LinuxDaily systemd: Started Session 419 of user root.
+Apr 17 11:01:01 LinuxDaily systemd: Started Session 420 of user root.
+Apr 17 11:10:01 LinuxDaily systemd: Started Session 421 of user root.
+Apr 17 11:20:01 LinuxDaily systemd: Started Session 422 of user root.
+Apr 17 11:30:01 LinuxDaily systemd: Started Session 423 of user root.
+Apr 17 11:40:01 LinuxDaily systemd: Started Session 424 of user root.
+Apr 17 11:50:01 LinuxDaily systemd: Started Session 425 of user root.
+Apr 17 12:00:01 LinuxDaily systemd: Started Session 426 of user root.
+Apr 17 12:01:01 LinuxDaily systemd: Started Session 427 of user root.
+Apr 17 12:10:01 LinuxDaily systemd: Started Session 428 of user root.
+Apr 17 12:20:01 LinuxDaily systemd: Started Session 429 of user root.
+Apr 17 12:30:02 LinuxDaily systemd: Started Session 430 of user root.
+Apr 17 12:40:01 LinuxDaily systemd: Started Session 431 of user root.
+Apr 17 12:50:01 LinuxDaily systemd: Started Session 432 of user root.
+Apr 17 13:00:01 LinuxDaily systemd: Started Session 433 of user root.
+Apr 17 13:01:01 LinuxDaily systemd: Started Session 434 of user root.
+Apr 17 13:10:01 LinuxDaily systemd: Started Session 435 of user root.
+Apr 17 13:20:01 LinuxDaily systemd: Started Session 436 of user root.
+Apr 17 13:30:02 LinuxDaily systemd: Started Session 437 of user root.
+Apr 17 13:40:01 LinuxDaily systemd: Started Session 438 of user root.
+Apr 17 13:50:01 LinuxDaily systemd: Started Session 439 of user root.
+Apr 17 14:00:01 LinuxDaily systemd: Started Session 440 of user root.
+Apr 17 14:01:01 LinuxDaily systemd: Started Session 441 of user root.
+Apr 17 14:10:01 LinuxDaily systemd: Started Session 442 of user root.
+Apr 17 14:20:01 LinuxDaily systemd: Started Session 443 of user root.
+Apr 17 14:30:01 LinuxDaily systemd: Started Session 444 of user root.
+Apr 17 14:40:02 LinuxDaily systemd: Started Session 445 of user root.
+Apr 17 14:50:01 LinuxDaily systemd: Started Session 446 of user root.
+Apr 17 15:00:01 LinuxDaily systemd: Started Session 447 of user root.
+Apr 17 15:01:01 LinuxDaily systemd: Started Session 448 of user root.
+Apr 17 15:10:01 LinuxDaily systemd: Started Session 449 of user root.
+Apr 17 15:20:01 LinuxDaily systemd: Started Session 450 of user root.
+Apr 17 15:30:01 LinuxDaily systemd: Started Session 451 of user root.
+Apr 17 15:40:02 LinuxDaily systemd: Started Session 452 of user root.
+Apr 17 15:50:01 LinuxDaily systemd: Started Session 453 of user root.
+Apr 17 16:00:01 LinuxDaily systemd: Started Session 454 of user root.
+Apr 17 16:01:01 LinuxDaily systemd: Started Session 455 of user root.
+Apr 17 16:10:01 LinuxDaily systemd: Started Session 456 of user root.
+Apr 17 16:20:01 LinuxDaily systemd: Started Session 457 of user root.
+Apr 17 16:30:01 LinuxDaily systemd: Started Session 458 of user root.
+Apr 17 16:40:02 LinuxDaily systemd: Started Session 459 of user root.
+Apr 17 16:50:01 LinuxDaily systemd: Started Session 460 of user root.
+Apr 17 17:00:01 LinuxDaily systemd: Started Session 461 of user root.
+Apr 17 17:01:01 LinuxDaily systemd: Started Session 462 of user root.
+Apr 17 17:10:01 LinuxDaily systemd: Started Session 463 of user root.
+Apr 17 17:20:01 LinuxDaily systemd: Started Session 464 of user root.
+Apr 17 17:30:01 LinuxDaily systemd: Started Session 465 of user root.
+Apr 17 17:40:01 LinuxDaily systemd: Started Session 466 of user root.
+Apr 17 17:50:02 LinuxDaily systemd: Started Session 467 of user root.
+Apr 17 18:00:01 LinuxDaily systemd: Started Session 468 of user root.
+Apr 17 18:01:01 LinuxDaily systemd: Started Session 469 of user root.
+Apr 17 18:10:01 LinuxDaily systemd: Started Session 470 of user root.
+Apr 17 18:20:01 LinuxDaily systemd: Started Session 471 of user root.
+Apr 17 18:30:01 LinuxDaily systemd: Started Session 472 of user root.
+Apr 17 18:40:01 LinuxDaily systemd: Started Session 473 of user root.
+Apr 17 18:50:01 LinuxDaily systemd: Started Session 474 of user root.
+Apr 17 19:00:01 LinuxDaily systemd: Started Session 475 of user root.
+Apr 17 19:01:01 LinuxDaily systemd: Started Session 476 of user root.
+Apr 17 19:10:01 LinuxDaily systemd: Started Session 477 of user root.
+Apr 17 19:20:01 LinuxDaily systemd: Started Session 478 of user root.
+Apr 17 19:30:01 LinuxDaily systemd: Started Session 479 of user root.
+Apr 17 19:40:01 LinuxDaily systemd: Started Session 480 of user root.
+Apr 17 19:50:01 LinuxDaily systemd: Started Session 481 of user root.
+Apr 17 20:00:01 LinuxDaily systemd: Started Session 482 of user root.
+Apr 17 20:01:01 LinuxDaily systemd: Started Session 483 of user root.
+Apr 17 20:10:01 LinuxDaily systemd: Started Session 484 of user root.
+Apr 17 20:20:01 LinuxDaily systemd: Started Session 485 of user root.
+Apr 17 20:30:01 LinuxDaily systemd: Started Session 486 of user root.
+Apr 17 20:40:01 LinuxDaily systemd: Started Session 487 of user root.
+Apr 17 20:50:01 LinuxDaily systemd: Started Session 488 of user root.
+Apr 17 21:00:02 LinuxDaily systemd: Started Session 489 of user root.
+Apr 17 21:01:01 LinuxDaily systemd: Started Session 490 of user root.
+Apr 17 21:10:01 LinuxDaily systemd: Started Session 491 of user root.
+Apr 17 21:20:01 LinuxDaily systemd: Started Session 492 of user root.
+Apr 17 21:30:01 LinuxDaily systemd: Started Session 493 of user root.
+Apr 17 21:40:01 LinuxDaily systemd: Started Session 494 of user root.
+Apr 17 21:50:01 LinuxDaily systemd: Started Session 495 of user root.
+Apr 17 22:00:01 LinuxDaily systemd: Started Session 496 of user root.
+Apr 17 22:01:01 LinuxDaily systemd: Started Session 497 of user root.
+Apr 17 22:10:01 LinuxDaily systemd: Started Session 498 of user root.
+Apr 17 22:20:01 LinuxDaily systemd: Started Session 499 of user root.
+Apr 17 22:30:01 LinuxDaily systemd: Started Session 500 of user root.
+Apr 17 22:40:01 LinuxDaily systemd: Started Session 501 of user root.
+Apr 17 22:50:01 LinuxDaily systemd: Started Session 502 of user root.
+Apr 17 23:00:01 LinuxDaily systemd: Started Session 503 of user root.
+Apr 17 23:01:01 LinuxDaily systemd: Started Session 504 of user root.
+Apr 17 23:10:01 LinuxDaily systemd: Started Session 505 of user root.
+Apr 17 23:20:01 LinuxDaily systemd: Started Session 506 of user root.
+Apr 17 23:30:01 LinuxDaily systemd: Started Session 507 of user root.
+Apr 17 23:40:01 LinuxDaily systemd: Started Session 508 of user root.
+Apr 17 23:50:01 LinuxDaily systemd: Started Session 509 of user root.
+Apr 17 23:53:01 LinuxDaily systemd: Started Session 510 of user root.
+Apr 18 00:00:01 LinuxDaily systemd: Starting update of the root trust anchor for DNSSEC validation in unbound...
+Apr 18 00:00:01 LinuxDaily systemd: Started Session 511 of user root.
+Apr 18 00:00:02 LinuxDaily systemd: Started update of the root trust anchor for DNSSEC validation in unbound.
+Apr 18 00:01:01 LinuxDaily systemd: Started Session 512 of user root.
+Apr 18 00:10:01 LinuxDaily systemd: Started Session 513 of user root.
+Apr 18 00:20:01 LinuxDaily systemd: Started Session 514 of user root.
+Apr 18 00:30:01 LinuxDaily systemd: Started Session 515 of user root.
+Apr 18 00:40:01 LinuxDaily systemd: Started Session 516 of user root.
+Apr 18 00:50:01 LinuxDaily systemd: Started Session 517 of user root.
+Apr 18 01:00:01 LinuxDaily systemd: Started Session 518 of user root.
+Apr 18 01:01:01 LinuxDaily systemd: Started Session 519 of user root.
+Apr 18 01:10:01 LinuxDaily systemd: Started Session 520 of user root.
+Apr 18 01:17:18 LinuxDaily systemd: Starting Cleanup of Temporary Directories...
+Apr 18 01:17:18 LinuxDaily systemd: Started Cleanup of Temporary Directories.
+Apr 18 01:20:01 LinuxDaily systemd: Started Session 521 of user root.
+Apr 18 01:30:01 LinuxDaily systemd: Started Session 522 of user root.
+Apr 18 01:40:01 LinuxDaily systemd: Started Session 523 of user root.
+Apr 18 01:50:01 LinuxDaily systemd: Started Session 524 of user root.
+Apr 18 02:00:01 LinuxDaily systemd: Started Session 525 of user root.
+Apr 18 02:01:01 LinuxDaily systemd: Started Session 526 of user root.
+Apr 18 02:10:01 LinuxDaily systemd: Started Session 527 of user root.
+Apr 18 02:20:01 LinuxDaily systemd: Started Session 528 of user root.
+Apr 18 02:30:01 LinuxDaily systemd: Started Session 529 of user root.
+Apr 18 02:40:01 LinuxDaily systemd: Started Session 530 of user root.
+Apr 18 02:50:01 LinuxDaily systemd: Started Session 531 of user root.
+Apr 18 03:00:01 LinuxDaily systemd: Started Session 532 of user root.
+Apr 18 03:01:01 LinuxDaily systemd: Started Session 533 of user root.
+Apr 18 03:10:01 LinuxDaily systemd: Started Session 534 of user root.
+Apr 18 03:20:01 LinuxDaily systemd: Started Session 535 of user root.
+Apr 18 03:30:01 LinuxDaily systemd: Started Session 536 of user root.
+Apr 18 03:40:01 LinuxDaily systemd: Started Session 537 of user root.
+Apr 18 03:50:01 LinuxDaily systemd: Started Session 538 of user root.
+Apr 18 04:00:01 LinuxDaily systemd: Started Session 539 of user root.
+Apr 18 04:01:01 LinuxDaily systemd: Started Session 540 of user root.
+Apr 18 04:10:01 LinuxDaily systemd: Started Session 541 of user root.
+Apr 18 04:20:01 LinuxDaily systemd: Started Session 542 of user root.
+Apr 18 04:30:01 LinuxDaily systemd: Started Session 543 of user root.
+Apr 18 04:40:01 LinuxDaily systemd: Started Session 544 of user root.
+Apr 18 04:50:01 LinuxDaily systemd: Started Session 545 of user root.
+Apr 18 05:00:01 LinuxDaily systemd: Started Session 546 of user root.
+Apr 18 05:01:01 LinuxDaily systemd: Started Session 547 of user root.
+Apr 18 05:10:01 LinuxDaily systemd: Started Session 548 of user root.
+Apr 18 05:20:01 LinuxDaily systemd: Started Session 549 of user root.
+Apr 18 05:30:01 LinuxDaily systemd: Started Session 550 of user root.
+Apr 18 05:40:01 LinuxDaily systemd: Started Session 551 of user root.
+Apr 18 05:50:01 LinuxDaily systemd: Started Session 552 of user root.
+Apr 18 06:00:01 LinuxDaily systemd: Started Session 553 of user root.
+Apr 18 06:01:01 LinuxDaily systemd: Started Session 554 of user root.
+Apr 18 06:08:58 LinuxDaily journal: shell-extensions did not set error for gs_plugin_refresh
+Apr 18 06:10:01 LinuxDaily systemd: Started Session 555 of user root.
+Apr 18 06:12:31 LinuxDaily gnome-welcome-tour.desktop: Memory pressure relief: Total: res = 107753472/107753472/0, res+swap = 102055936/102055936/0
+Apr 18 06:12:43 LinuxDaily journal: shell-extensions did not set error for gs_plugin_refresh
+Apr 18 06:20:02 LinuxDaily systemd: Started Session 556 of user root.
+Apr 18 06:30:01 LinuxDaily systemd: Started Session 557 of user root.
+Apr 18 06:40:01 LinuxDaily systemd: Started Session 558 of user root.
+Apr 18 06:50:01 LinuxDaily systemd: Started Session 559 of user root.
+Apr 18 07:00:01 LinuxDaily systemd: Started Session 560 of user root.
+Apr 18 07:01:01 LinuxDaily systemd: Started Session 561 of user root.
+Apr 18 07:10:01 LinuxDaily systemd: Started Session 562 of user root.
+Apr 18 07:20:02 LinuxDaily systemd: Started Session 563 of user root.
+Apr 18 07:30:01 LinuxDaily systemd: Started Session 564 of user root.
+Apr 18 07:40:01 LinuxDaily systemd: Started Session 565 of user root.
+Apr 18 07:50:01 LinuxDaily systemd: Started Session 566 of user root.
+Apr 18 08:00:01 LinuxDaily systemd: Started Session 567 of user root.
+Apr 18 08:01:01 LinuxDaily systemd: Started Session 568 of user root.
+Apr 18 08:10:01 LinuxDaily systemd: Started Session 569 of user root.
+Apr 18 08:20:02 LinuxDaily systemd: Started Session 570 of user root.
+Apr 18 08:30:01 LinuxDaily systemd: Started Session 571 of user root.
+Apr 18 08:40:01 LinuxDaily systemd: Started Session 572 of user root.
+Apr 18 08:50:01 LinuxDaily systemd: Started Session 573 of user root.
+Apr 18 09:00:01 LinuxDaily systemd: Started Session 574 of user root.
+Apr 18 09:01:01 LinuxDaily systemd: Started Session 575 of user root.
+Apr 18 09:10:01 LinuxDaily systemd: Started Session 576 of user root.
+Apr 18 09:20:01 LinuxDaily systemd: Started Session 577 of user root.
+Apr 18 09:30:02 LinuxDaily systemd: Started Session 578 of user root.
+Apr 18 09:40:01 LinuxDaily systemd: Started Session 579 of user root.
+Apr 18 09:50:01 LinuxDaily systemd: Started Session 580 of user root.
+Apr 18 10:00:01 LinuxDaily systemd: Started Session 581 of user root.
+Apr 18 10:01:01 LinuxDaily systemd: Started Session 582 of user root.
+Apr 18 10:10:01 LinuxDaily systemd: Started Session 583 of user root.
+Apr 18 10:20:01 LinuxDaily systemd: Started Session 584 of user root.
+Apr 18 10:30:02 LinuxDaily systemd: Started Session 585 of user root.
+Apr 18 10:40:01 LinuxDaily systemd: Started Session 586 of user root.
+Apr 18 10:50:01 LinuxDaily systemd: Started Session 587 of user root.
+Apr 18 11:00:01 LinuxDaily systemd: Started Session 588 of user root.
+Apr 18 11:01:01 LinuxDaily systemd: Started Session 589 of user root.
+Apr 18 11:10:01 LinuxDaily systemd: Started Session 590 of user root.
+Apr 18 11:20:01 LinuxDaily systemd: Started Session 591 of user root.
+Apr 18 11:30:01 LinuxDaily systemd: Started Session 592 of user root.
+Apr 18 11:40:01 LinuxDaily systemd: Started Session 593 of user root.
+Apr 18 11:50:01 LinuxDaily systemd: Started Session 594 of user root.
+Apr 18 12:00:01 LinuxDaily systemd: Started Session 595 of user root.
+Apr 18 12:01:01 LinuxDaily systemd: Started Session 596 of user root.
+Apr 18 12:10:01 LinuxDaily systemd: Started Session 597 of user root.
+Apr 18 12:20:01 LinuxDaily systemd: Started Session 598 of user root.
+Apr 18 12:30:01 LinuxDaily systemd: Started Session 599 of user root.
+Apr 18 12:40:02 LinuxDaily systemd: Started Session 600 of user root.
+Apr 18 12:50:01 LinuxDaily systemd: Started Session 601 of user root.
+Apr 18 13:00:01 LinuxDaily systemd: Started Session 602 of user root.
+Apr 18 13:01:01 LinuxDaily systemd: Started Session 603 of user root.
+Apr 18 13:10:01 LinuxDaily systemd: Started Session 604 of user root.
+Apr 18 13:20:01 LinuxDaily systemd: Started Session 605 of user root.
+Apr 18 13:30:01 LinuxDaily systemd: Started Session 606 of user root.
+Apr 18 13:40:01 LinuxDaily systemd: Started Session 607 of user root.
+Apr 18 13:50:01 LinuxDaily systemd: Started Session 608 of user root.
+Apr 18 14:00:01 LinuxDaily systemd: Started Session 609 of user root.
+Apr 18 14:01:01 LinuxDaily systemd: Started Session 610 of user root.
+Apr 18 14:10:01 LinuxDaily systemd: Started Session 611 of user root.
+Apr 18 14:20:01 LinuxDaily systemd: Started Session 612 of user root.
+Apr 18 14:30:01 LinuxDaily systemd: Started Session 613 of user root.
+Apr 18 14:40:01 LinuxDaily systemd: Started Session 614 of user root.
+Apr 18 14:50:01 LinuxDaily systemd: Started Session 615 of user root.
+Apr 18 15:00:01 LinuxDaily systemd: Started Session 616 of user root.
+Apr 18 15:01:01 LinuxDaily systemd: Started Session 617 of user root.
+Apr 18 15:10:01 LinuxDaily systemd: Started Session 618 of user root.
+Apr 18 15:20:01 LinuxDaily systemd: Started Session 619 of user root.
+Apr 18 15:30:01 LinuxDaily systemd: Started Session 620 of user root.
+Apr 18 15:40:01 LinuxDaily systemd: Started Session 621 of user root.
+Apr 18 15:50:01 LinuxDaily systemd: Started Session 622 of user root.
+Apr 18 16:00:02 LinuxDaily systemd: Started Session 623 of user root.
+Apr 18 16:01:01 LinuxDaily systemd: Started Session 624 of user root.
+Apr 18 16:10:01 LinuxDaily systemd: Started Session 625 of user root.
+Apr 18 16:20:01 LinuxDaily systemd: Started Session 626 of user root.
+Apr 18 16:30:01 LinuxDaily systemd: Started Session 627 of user root.
+Apr 18 16:40:01 LinuxDaily systemd: Started Session 628 of user root.
+Apr 18 16:50:01 LinuxDaily systemd: Started Session 629 of user root.
+Apr 18 17:00:01 LinuxDaily systemd: Started Session 630 of user root.
+Apr 18 17:01:01 LinuxDaily systemd: Started Session 631 of user root.
+Apr 18 17:10:01 LinuxDaily systemd: Started Session 632 of user root.
+Apr 18 17:20:01 LinuxDaily systemd: Started Session 633 of user root.
+Apr 18 17:30:01 LinuxDaily systemd: Started Session 634 of user root.
+Apr 18 17:40:01 LinuxDaily systemd: Started Session 635 of user root.
+Apr 18 17:50:01 LinuxDaily systemd: Started Session 636 of user root.
+Apr 18 18:00:01 LinuxDaily systemd: Started Session 637 of user root.
+Apr 18 18:01:02 LinuxDaily systemd: Started Session 638 of user root.
+Apr 18 18:10:01 LinuxDaily systemd: Started Session 639 of user root.
+Apr 18 18:20:01 LinuxDaily systemd: Started Session 640 of user root.
+Apr 18 18:30:01 LinuxDaily systemd: Started Session 641 of user root.
+Apr 18 18:40:01 LinuxDaily systemd: Started Session 642 of user root.
+Apr 18 18:50:01 LinuxDaily systemd: Started Session 643 of user root.
+Apr 18 19:00:01 LinuxDaily systemd: Started Session 644 of user root.
+Apr 18 19:01:01 LinuxDaily systemd: Started Session 645 of user root.
+Apr 18 19:10:02 LinuxDaily systemd: Started Session 646 of user root.
+Apr 18 19:20:01 LinuxDaily systemd: Started Session 647 of user root.
+Apr 18 19:30:01 LinuxDaily systemd: Started Session 648 of user root.
+Apr 18 19:40:01 LinuxDaily systemd: Started Session 649 of user root.
+Apr 18 19:44:49 LinuxDaily dbus[833]: [system] Activating via systemd: service name='net.reactivated.Fprint' unit='fprintd.service'
+Apr 18 19:44:49 LinuxDaily systemd: Starting Fingerprint Authentication Daemon...
+Apr 18 19:44:49 LinuxDaily dbus[833]: [system] Successfully activated service 'net.reactivated.Fprint'
+Apr 18 19:44:49 LinuxDaily systemd: Started Fingerprint Authentication Daemon.
+Apr 18 19:49:56 LinuxDaily dbus[833]: [system] Activating via systemd: service name='net.reactivated.Fprint' unit='fprintd.service'
+Apr 18 19:49:56 LinuxDaily systemd: Starting Fingerprint Authentication Daemon...
+Apr 18 19:49:56 LinuxDaily dbus[833]: [system] Successfully activated service 'net.reactivated.Fprint'
+Apr 18 19:49:56 LinuxDaily systemd: Started Fingerprint Authentication Daemon.
+Apr 18 19:50:01 LinuxDaily systemd: Started Session 650 of user root.
+Apr 18 19:50:03 LinuxDaily gnome-keyring-daemon[4657]: couldn't initialize slot with master password: The password or PIN is incorrect
+Apr 18 19:50:03 LinuxDaily NetworkManager[986]: <info>  [1713484203.4915] agent-manager: req[0x563f3b2d96e0, :1.943/org.gnome.Shell.NetworkAgent/0]: agent registered
+Apr 18 19:50:03 LinuxDaily dbus[833]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service'
+Apr 18 19:50:03 LinuxDaily systemd: Starting Hostname Service...
+Apr 18 19:50:03 LinuxDaily dbus[833]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Apr 18 19:50:03 LinuxDaily systemd: Started Hostname Service.
+Apr 18 19:58:31 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 18 19:58:31 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 18 19:58:31 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 18 19:58:33 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 18 19:58:34 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 18 19:58:34 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 18 20:00:01 LinuxDaily systemd: Started Session 651 of user root.
+Apr 18 20:01:01 LinuxDaily systemd: Started Session 652 of user root.
+Apr 18 20:05:25 LinuxDaily journal: clutter_actor_iter_next: assertion 'ri->age == ri->root->priv->age' failed
+Apr 18 20:08:56 LinuxDaily dbus[833]: [system] Activating via systemd: service name='net.reactivated.Fprint' unit='fprintd.service'
+Apr 18 20:08:56 LinuxDaily systemd: Starting Fingerprint Authentication Daemon...
+Apr 18 20:08:56 LinuxDaily dbus[833]: [system] Successfully activated service 'net.reactivated.Fprint'
+Apr 18 20:08:56 LinuxDaily systemd: Started Fingerprint Authentication Daemon.
+Apr 18 20:08:59 LinuxDaily gnome-keyring-daemon[4657]: couldn't initialize slot with master password: The password or PIN is incorrect
+Apr 18 20:08:59 LinuxDaily NetworkManager[986]: <info>  [1713485339.8356] agent-manager: req[0x563f3b2d2960, :1.943/org.gnome.Shell.NetworkAgent/0]: agent registered
+Apr 18 20:08:59 LinuxDaily dbus[833]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service'
+Apr 18 20:08:59 LinuxDaily systemd: Starting Hostname Service...
+Apr 18 20:09:00 LinuxDaily dbus[833]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Apr 18 20:09:00 LinuxDaily systemd: Started Hostname Service.
+Apr 18 20:10:02 LinuxDaily systemd: Started Session 653 of user root.
+Apr 18 20:10:28 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 18 20:10:28 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 18 20:10:28 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 18 20:10:30 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 18 20:10:30 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 18 20:10:30 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 18 20:19:53 LinuxDaily journal: clutter_actor_iter_next: assertion 'ri->age == ri->root->priv->age' failed
+Apr 18 20:20:01 LinuxDaily systemd: Started Session 654 of user root.
+Apr 18 20:30:01 LinuxDaily systemd: Started Session 655 of user root.
+Apr 18 20:39:24 LinuxDaily dbus[833]: [system] Activating via systemd: service name='net.reactivated.Fprint' unit='fprintd.service'
+Apr 18 20:39:24 LinuxDaily systemd: Starting Fingerprint Authentication Daemon...
+Apr 18 20:39:24 LinuxDaily dbus[833]: [system] Successfully activated service 'net.reactivated.Fprint'
+Apr 18 20:39:24 LinuxDaily systemd: Started Fingerprint Authentication Daemon.
+Apr 18 20:39:28 LinuxDaily gnome-keyring-daemon[4657]: couldn't initialize slot with master password: The password or PIN is incorrect
+Apr 18 20:39:28 LinuxDaily NetworkManager[986]: <info>  [1713487168.7430] agent-manager: req[0x563f3b2d2960, :1.943/org.gnome.Shell.NetworkAgent/0]: agent registered
+Apr 18 20:39:28 LinuxDaily dbus[833]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service'
+Apr 18 20:39:28 LinuxDaily systemd: Starting Hostname Service...
+Apr 18 20:39:28 LinuxDaily dbus[833]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Apr 18 20:39:28 LinuxDaily systemd: Started Hostname Service.
+Apr 18 20:40:01 LinuxDaily systemd: Started Session 656 of user root.
+Apr 18 20:43:58 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 18 20:43:58 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 18 20:43:58 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 18 20:44:01 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 18 20:44:01 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 18 20:44:01 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 18 20:50:01 LinuxDaily systemd: Started Session 657 of user root.
+Apr 18 20:54:29 LinuxDaily journal: clutter_actor_iter_next: assertion 'ri->age == ri->root->priv->age' failed
+Apr 18 21:00:01 LinuxDaily systemd: Started Session 658 of user root.
+Apr 18 21:01:02 LinuxDaily systemd: Started Session 659 of user root.
+Apr 18 21:10:01 LinuxDaily systemd: Started Session 660 of user root.
+Apr 18 21:20:01 LinuxDaily systemd: Started Session 661 of user root.
+Apr 18 21:30:01 LinuxDaily systemd: Started Session 662 of user root.
+Apr 18 21:40:01 LinuxDaily systemd: Started Session 663 of user root.
+Apr 18 21:50:01 LinuxDaily systemd: Started Session 664 of user root.
+Apr 18 22:00:01 LinuxDaily systemd: Started Session 665 of user root.
+Apr 18 22:01:01 LinuxDaily systemd: Started Session 666 of user root.
+Apr 18 22:10:01 LinuxDaily systemd: Started Session 667 of user root.
+Apr 18 22:20:01 LinuxDaily systemd: Started Session 668 of user root.
+Apr 18 22:30:01 LinuxDaily systemd: Started Session 669 of user root.
+Apr 18 22:40:01 LinuxDaily systemd: Started Session 670 of user root.
+Apr 18 22:41:51 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 18 22:41:51 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 18 22:41:51 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 18 22:41:56 LinuxDaily dbus[833]: [system] Activating via systemd: service name='net.reactivated.Fprint' unit='fprintd.service'
+Apr 18 22:41:57 LinuxDaily systemd: Starting Fingerprint Authentication Daemon...
+Apr 18 22:41:57 LinuxDaily dbus[833]: [system] Successfully activated service 'net.reactivated.Fprint'
+Apr 18 22:41:57 LinuxDaily systemd: Started Fingerprint Authentication Daemon.
+Apr 18 22:42:00 LinuxDaily gnome-keyring-daemon[4657]: couldn't initialize slot with master password: The password or PIN is incorrect
+Apr 18 22:42:00 LinuxDaily NetworkManager[986]: <info>  [1713494520.6626] agent-manager: req[0x563f3b2d96e0, :1.943/org.gnome.Shell.NetworkAgent/0]: agent registered
+Apr 18 22:42:00 LinuxDaily dbus[833]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service'
+Apr 18 22:42:00 LinuxDaily systemd: Starting Hostname Service...
+Apr 18 22:42:00 LinuxDaily dbus[833]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Apr 18 22:42:00 LinuxDaily systemd: Started Hostname Service.
+Apr 18 22:42:33 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 18 22:42:33 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 18 22:42:33 LinuxDaily journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Apr 18 22:46:17 LinuxDaily systemd-logind: New session 671 of user root.
+Apr 18 22:46:17 LinuxDaily systemd: Started Session 671 of user root.
+Apr 18 22:46:17 LinuxDaily dbus[833]: [system] Activating service name='org.freedesktop.problems' (using servicehelper)
+Apr 18 22:46:17 LinuxDaily dbus[833]: [system] Successfully activated service 'org.freedesktop.problems'
+Apr 18 22:49:23 LinuxDaily journal: clutter_actor_iter_next: assertion 'ri->age == ri->root->priv->age' failed
+Apr 18 22:50:01 LinuxDaily systemd: Started Session 672 of user root.
+Apr 18 23:00:01 LinuxDaily systemd: Started Session 673 of user root.
+Apr 18 23:00:15 LinuxDaily gnome-welcome-tour.desktop: Memory pressure relief: Total: res = 107757568/107757568/0, res+swap = 102064128/102064128/0
+Apr 18 23:00:45 LinuxDaily gnome-welcome-tour.desktop: Memory pressure relief: Total: res = 107753472/107753472/0, res+swap = 102060032/102060032/0
+Apr 18 23:01:02 LinuxDaily systemd: Started Session 674 of user root.
+Apr 18 23:01:15 LinuxDaily gnome-welcome-tour.desktop: Memory pressure relief: Total: res = 107749376/107749376/0, res+swap = 102064128/102064128/0
+Apr 18 23:01:45 LinuxDaily gnome-welcome-tour.desktop: Memory pressure relief: Total: res = 107745280/107745280/0, res+swap = 102068224/102068224/0
+Apr 18 23:02:15 LinuxDaily gnome-welcome-tour.desktop: Memory pressure relief: Total: res = 107737088/107737088/0, res+swap = 102060032/102060032/0
+Apr 18 23:02:45 LinuxDaily gnome-welcome-tour.desktop: Memory pressure relief: Total: res = 107737088/107737088/0, res+swap = 102068224/102068224/0
+Apr 18 23:03:15 LinuxDaily gnome-welcome-tour.desktop: Memory pressure relief: Total: res = 107728896/107728896/0, res+swap = 102068224/102068224/0
+Apr 18 23:03:35 LinuxDaily yum[3891]: Installed: 1:telnet-0.17-66.el7.x86_64
+Apr 18 23:10:01 LinuxDaily systemd: Started Session 675 of user root.
+Apr 18 23:20:01 LinuxDaily systemd: Started Session 676 of user root.
+Apr 18 23:30:01 LinuxDaily systemd: Started Session 677 of user root.
+Apr 18 23:40:01 LinuxDaily systemd: Started Session 678 of user root.
+Apr 18 23:50:01 LinuxDaily systemd: Started Session 679 of user root.
+Apr 18 23:53:01 LinuxDaily systemd: Started Session 680 of user root.

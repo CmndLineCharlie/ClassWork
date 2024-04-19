@@ -1,0 +1,12 @@
+Filesystem                   Size  Used Avail Use% Mounted on
+devtmpfs                     903M     0  903M   0% /dev
+tmpfs                        920M     0  920M   0% /dev/shm
+tmpfs                        920M   11M  909M   2% /run
+tmpfs                        920M     0  920M   0% /sys/fs/cgroup
+/dev/mapper/centos-root      8.0G  4.7G  3.4G  59% /
+/dev/sda1                   1014M  187M  828M  19% /boot
+/dev/mapper/foldVG-fold2LV   3.0G   33M  3.0G   2% /fold1/fold2
+/dev/mapper/fold2VG-fold3LV  3.0G   33M  3.0G   2% /fold1/fold2/fold3
+tmpfs                        184M   40K  184M   1% /run/user/1000
+/dev/sr0                     4.5G  4.5G     0 100% /run/media/admin/CentOS 7 x86_64
+tmpfs                        184M   60K  184M   1% /run/user/0
